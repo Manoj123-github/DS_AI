@@ -1,1 +1,1 @@
-# DSAI
+# Data Science & Artificial Intelligence
