@@ -1,0 +1,13 @@
+id,age,gender,bmi,children,smoker,region,noise,charges
+1,55,female,32.775,2,no,northwest,0,12268.63225
+2,31,male,26.885,1,no,northeast,0,4441.21315
+3,45,male,22.895,2,yes,northwest,0,21098.55405
+4,42,female,26.6,0,yes,northwest,0,21348.706
+5,32,male,30.8,3,no,southwest,0,5253.524
+6,56,female,39.82,0,no,southeast,0,15000.123
+7,30,male,35.3,0,yes,southwest,0,30000.99
+8,60,female,36.005,0,no,northeast,0,14539.87
+9,22,male,35.6,0,yes,southwest,0,30000.66
+10,18,female,26.315,0,no,northeast,0,2198.18985
+11,19,female,28.6,5,no,southwest,0,4687.797
+12,60,female,24.53,0,no,southeast,0,11000.77
