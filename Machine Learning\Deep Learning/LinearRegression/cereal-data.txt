@@ -1,0 +1,46 @@
+Guide: https://analyticsindiamag.com/linear-regression-with-sklearn/
+
+Source: https://www.kaggle.com/crawford/80-cereals
+
+In today’s article, we will be taking a look at how to predict the rating of cereals. The problem statement is to predict the cereal ratings where the columns give the exact figures of the ingredients. Link to the data set is mentioned below. 
+
+We will be making the data ready to go and will fit a simple model into it and would also regularise the data to see how good the model can become.
+
+It is advised to read the description of the dataset before proceeding, will help you comprehend the problem better.
+Here since we see that rating column is a continuous data thus it is a regression problem. 
+
+
+ext_format
+name
+sort
+Cereal name
+
+text_format
+mfr
+sort
+Manufacturer
+
+text_format
+type
+sort
+grid_3x3
+calories
+sort
+grid_3x3
+protein
+sort
+grid_3x3
+fat
+sort
+grid_3x3
+sodium
+sort
+grid_3x3
+fiber
+sort
+grid_3x3
+carbo
+sort
+grid_3x3
+sugars
+sort
