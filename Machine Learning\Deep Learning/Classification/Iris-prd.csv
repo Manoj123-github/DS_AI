@@ -1,0 +1,4 @@
+Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Species
+27,5.0,3.4,1.6,0.4,Iris-setosa
+61,5.0,2.0,3.5,1.0,Iris-versicolor
+147,6.3,2.5,5.0,1.9,Iris-virginica

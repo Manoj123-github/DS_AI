@@ -1,0 +1,3 @@
+# create model ... empty model
+from sklearn.ensemble import RandomForestRegressor 
+model = RandomForestRegressor(random_state = 0) 

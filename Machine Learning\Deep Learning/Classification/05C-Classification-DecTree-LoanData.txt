@@ -1,0 +1,16 @@
+################################
+# For Decision Tree Only
+# visualization
+###############################
+from sklearn import tree
+text_tree = tree.export_text(model)
+print("\n*** Decision Tree Text ***")
+print(text_tree)
+
+print("\n*** Decision Tree Plot ***")
+plt.figure()
+tree.plot_tree(model, 
+               feature_names=allCols,  
+               class_names=clsVars,
+               filled=True)
+plt.show()

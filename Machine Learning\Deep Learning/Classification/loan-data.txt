@@ -1,0 +1,11 @@
+A dataset “loan-data.csv” is given to you for predictive analytics problem.
+
+The dataset is the historical data provided by a commercial bank about the loan applicants.
+
+The loan application is either approved (1) or rejected (0).  
+
+No dictionary is provided. Even the column names are masked. 
+
+The only brief given is “use the column ‘class’ as outcome (class) variable and predict (0 or 1) the same based on the given data”.
+
+Use “loan-data-prd.csv” as new data for final prediction.
