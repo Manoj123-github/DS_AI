@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 21 00:56:20 2020
-@filename: utils.py
-@describe: utility functions
-@dataset: Nil
-@author: cyruslentinHandleOutliers
-"""
+
 import numpy as np
 import pandas as pd
 
