@@ -1,0 +1,182 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec  9 07:56:09 2020
+
+@author: Manoj Yadav
+"""
+
+import pandas as pd
+import numpy as np
+import string as st
+import utils
+from sklearn.impute import SimpleImputer
+from mpl_toolkits.mplot3d import Axes3D
+import matplotlib
+from matplotlib import pyplot as plt
+#matplotlib.style.use('ggplot')
+import pylab
+import seaborn as sns
+from scipy.stats import ttest_1samp
+ 
+df = pd.read_csv("C:/Python/Project/iris-m.csv")
+print(df.head)
+print(len(df))
+print(df.describe())
+print(df.columns)
+
+#  02.  
+print(df.info())
+print(df.dtypes)
+
+ # 03.
+df['length'] = df['SepalLength'].map(str).apply(len)
+print (df)
+df['length'] = df['SepalWidth'].map(str).apply(len)
+print (df)
+df['length'] = df['PetalLength'].map(str).apply(len)
+print (df)
+df['length'] = df['PetalWidth'].map(str).apply(len)
+print (df)
+df['length'] = df['species'].apply(len)
+print (df)
+
+# 07.
+print('\n*** Columns With Nulls ***')
+df.isnull().sum() 
+df.isna().sum() 
+
+# 09. SepalLength mean
+df['species'] = df['species'].str.strip()
+df['species'] = df['species'].str.upper()
+#df['Gender'] = df['Gender'].str.upper().str.strip()
+print("*Cleaned Count*")
+print("Not Null Values")
+print(df.species.notnull().sum())
+df['species'] = np.where(df['species'] == 'SETOSA', 'IRIS-SETOSA', df['species'])
+print(df.groupby(['species'])['Id'].count())
+
+
+vmean = df.groupby(['species'])[['SepalLength']].mean()
+print(vmean) 
+
+df['SepalLength'] = np.where(df['SepalLength'].isnull(), vMean, df['SepalLength'])
+#gdf = df.groupby(['species'])[['SepalLength']].count()
+#print(gdf)
+
+
+
+gdf = df.groupby(['species'])[['SepalLength']].apply(lambda x:x.fillna(x.mean()))
+
+
+# 10 
+print(df['SepalLength'].count())
+print(df['SepalWidth'].count())
+print(df['PetalLength'].count())
+print(df['PetalWidth'].count())
+#print(df.count())
+
+print(df['SepalLength'].mean())
+print(df['SepalWidth'].mean())
+print(df['PetalLength'].mean())
+print(df['PetalWidth'].mean())
+# print(df.mean())
+
+print(df['SepalLength'].sum())
+print(df['SepalWidth'].sum())
+print(df['PetalLength'].sum())
+print(df['PetalWidth'].sum())
+print(df.sum())
+#11
+# print(df['SepalLength'].var())
+print(df.var())
+#print(df['SepalLength'].range())
+df.std()
+#12
+#Identifying Outliers with Interquartile Range (IQR)
+#     The interquartile range (IQR) is a measure of statistical dispersion and 
+#     is calculated as the difference between the 75th and 25th percentiles. 
+#     It is represented by the formula IQR = Q3 − Q1. 
+#    The lines of code below calculate and print the interquartile range for each of the variables in the dataset.
+Q1 = df.quantile(0.25)
+Q3 = df.quantile(0.75)
+IQR = Q3 - Q1
+print(IQR)
+print((IQR).count())
+print(df < (Q1 - 1.5 * IQR)) |(df > (Q3 + 1.5 * IQR))
+
+#14
+df.hist(
+    column=["SepalLength", "SepalWidth", "PetalLength", "PetalWidth"],
+    figsize=(10, 10))
+
+pylab.suptitle("histrogram", fontsize="xx-large")
+
+
+#15.
+tdf = df.drop(['Id','species'], axis=1)
+tdf.head()
+
+plt.figure()
+sns.boxplot(tdf)
+plt.title(tdf)
+plt.ylabel(tdf)
+plt.xlabel('Bins')
+plt.show()  
+
+# 17.
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+X = [df["PetalWidth"], df["PetalLength"]]
+
+ax.scatter(df["PetalWidth"], df["PetalLength"], df["SepalLength"])
+
+
+ax.set_xlabel('PetalWidthCm')
+ax.set_ylabel('PetalLengthCm')
+ax.set_zlabel('SepalLengthCm')
+
+plt.tight_layout(pad=0.5)
+plt.show()
+
+
+#19.
+Ho = "mu <= 1.5"
+# alt hyp
+Ha = "mu > 1.5"
+# alpha
+al = 0.05
+# mu - mean
+mu = 1.5
+# tail type
+tt = 1
+# data
+PetalWidth = df['PetalWidth'].values
+# print
+print("Ho:", Ho)
+print("Ha:", Ha)
+print("al:", al)
+print("mu:", mu)
+print(PetalWidth)
+print("")
+ts, pv = ttest_1samp(PetalWidth, mu)
+print("t-stat",ts)
+print("p-vals",pv)
+t2pv = pv
+t1pv = pv*2
+print("1t pv",t1pv)
+print("2t pv",t2pv)
+
+if tt == 1:
+    if t1pv < al:
+        print("Null Hypothesis: Rejected")
+        print("Conclusion:",Ha)
+    else:
+        print("Null Hypothesis: Not Rejected")
+        print("Conclusion:",Ho)
+else:
+    if t2pv < al/2:
+        print("Null Hypothesis: Rejected")
+        print("Conclusion:",Ha)
+    else:
+        print("Null Hypothesis: Not Rejected")
+        print("Conclusion:",Ho) 
