@@ -1,0 +1,429 @@
+Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length,AM,Gears
+Kia,Rio 4dr manual,Sedan,Asia,Front," 12,85,000 "," 12,34,375 ", 1.60 , 4 , 104 , 26 , 33 ," 2,403 ", 95 , 167 ,0, 4 
+Hyundai,Accent 2dr hatch,Sedan,Asia,Front," 13,17,375 "," 12,63,375 ", 1.60 , 4 , 103 , 29 , 33 ," 2,255 ", 96 , 167 ,0, 4 
+Toyota,Echo 2dr manual,Sedan,Asia,Front," 13,45,000 "," 12,68,000 ", 1.50 , 4 , 108 , 35 , 43 ," 2,035 ", 93 , 163 ,0, 4 
+Saturn,Ion1 4dr,Sedan,USA,Front," 13,74,375 "," 12,89,875 ", 2.20 , 4 , 140 , 26 , 35 ," 2,692 ", 103 , 185 ,0, 4 
+Toyota,Echo 4dr,Sedan,Asia,Front," 14,11,250 "," 13,30,250 ", 1.50 , 4 , 108 , 35 , 43 ," 2,055 ", 93 , 163 ,0, 4 
+Kia,Rio 4dr auto,Sedan,Asia,Front," 13,94,375 "," 13,38,125 ", 1.60 , 4 , 104 , 25 , 32 ," 2,458 ", 95 , 167 ,0, 4 
+Toyota,Echo 2dr auto,Sedan,Asia,Front," 14,45,000 "," 13,62,000 ", 1.50 , 4 , 108 , 33 , 39 ," 2,085 ", 93 , 163 ,0, 4 
+Chevrolet,Aveo 4dr,Sedan,USA,Front," 14,61,250 "," 13,70,625 ", 1.60 , 4 , 103 , 28 , 34 ," 2,370 ", 98 , 167 ,0, 4 
+Hyundai,Accent GL 4dr,Sedan,Asia,Front," 14,79,875 "," 13,89,500 ", 1.60 , 4 , 103 , 29 , 33 ," 2,290 ", 96 , 167 ,0, 4 
+Hyundai,Accent GT 2dr hatch,Sedan,Asia,Front," 14,92,375 "," 14,01,125 ", 1.60 , 4 , 103 , 29 , 33 ," 2,339 ", 96 , 167 ,0, 4 
+Kia,Rio Cinco,Wagon,Asia,Front," 14,88,125 "," 14,26,250 ", 1.60 , 4 , 104 , 26 , 33 ," 2,447 ", 95 , 167 ,0, 4 
+Kia,Spectra 4dr,Sedan,Asia,Front," 15,45,000 "," 14,53,750 ", 1.80 , 4 , 124 , 24 , 32 ," 2,661 ", 101 , 178 ,0, 4 
+Chevrolet,Aveo LS 4dr hatch,Sedan,USA,Front," 15,73,125 "," 14,75,250 ", 1.60 , 4 , 103 , 28 , 34 ," 2,348 ", 98 , 153 ,0, 4 
+Toyota,Tacoma,Truck,Asia,Rear," 16,00,000 "," 14,84,875 ", 2.40 , 4 , 142 , 22 , 27 ," 2,750 ", 103 , 191 ,0, 4 
+Suzuki,Forenza S 4dr,Sedan,Asia,Front," 15,33,625 "," 15,14,500 ", 2.00 , 4 , 119 , 24 , 31 ," 2,701 ", 102 , 177 ,0, 4 
+Honda,Civic DX 2dr,Sedan,Asia,Front," 16,58,750 "," 15,21,875 ", 1.70 , 4 , 115 , 32 , 38 ," 2,432 ", 103 , 175 ,0, 4 
+Nissan,Sentra 1.8 4dr,Sedan,Asia,Front," 15,92,500 "," 15,25,625 ", 1.80 , 4 , 126 , 28 , 35 ," 2,513 ", 100 , 178 ,0, 4 
+Scion,xA 4dr hatch,Sedan,Asia,Front," 16,20,625 "," 15,42,500 ", 1.50 , 4 , 108 , 32 , 38 ," 2,340 ", 93 , 154 ,0, 4 
+Ford,Focus ZX3 2dr hatch,Sedan,USA,Front," 16,58,750 "," 15,60,250 ", 2.00 , 4 , 130 , 26 , 33 ," 2,612 ", 103 , 168 ,0, 4 
+Suzuki,Aeno S 4dr,Sedan,Asia,Front," 16,10,500 "," 15,89,875 ", 2.30 , 4 , 155 , 25 , 31 ," 2,676 ", 98 , 171 ,0, 4 
+Hyundai,Elantra GLS 4dr,Sedan,Asia,Front," 17,29,875 "," 15,97,625 ", 2.00 , 4 , 138 , 26 , 34 ," 2,635 ", 103 , 178 ,0, 4 
+Kia,Spectra GS 4dr hatch,Sedan,Asia,Front," 16,97,500 "," 16,03,750 ", 1.80 , 4 , 124 , 24 , 32 ," 2,686 ", 101 , 178 ,0, 4 
+Dodge,Neon SE 4dr,Sedan,USA,Front," 17,08,750 "," 16,06,125 ", 2.00 , 4 , 132 , 29 , 36 ," 2,581 ", 105 , 174 ,0, 4 
+Ford,Focus LX 4dr,Sedan,USA,Front," 17,16,250 "," 16,13,250 ", 2.00 , 4 , 110 , 27 , 36 ," 2,606 ", 103 , 168 ,0, 4 
+Honda,Civic HX 2dr,Sedan,Asia,Front," 17,71,250 "," 16,24,500 ", 1.70 , 4 , 117 , 36 , 44 ," 2,500 ", 103 , 175 ,0, 4 
+Toyota,Corolla CE 4dr,Sedan,Asia,Front," 17,60,625 "," 16,33,125 ", 1.80 , 4 , 130 , 32 , 40 ," 2,502 ", 102 , 178 ,0, 4 
+Saturn,lon2 4dr,Sedan,USA,Front," 17,87,500 "," 16,74,125 ", 2.20 , 4 , 140 , 26 , 35 ," 2,692 ", 103 , 185 ,0, 4 
+Scion,xB,Wagon,Asia,Front," 17,70,625 "," 16,85,000 ", 1.50 , 4 , 108 , 31 , 35 ," 2,425 ", 98 , 155 ,0, 4 
+Toyota,Corolla S 4dr,Sedan,Asia,Front," 18,78,750 "," 17,06,250 ", 1.80 , 4 , 130 , 32 , 40 ," 2,524 ", 102 , 178 ,0, 4 
+Chevrolet,Cavalier 2dr,Sedan,USA,Front," 18,26,250 "," 17,12,125 ", 2.20 , 4 , 140 , 26 , 37 ," 2,617 ", 104 , 183 ,0, 4 
+Ford,Ranger 2.3 XL Regular Cab,Truck,USA,Rear," 17,98,125 "," 17,14,625 ", 2.30 , 4 , 143 , 24 , 29 ," 3,028 ", 111 , 188 ,0, 4 
+Nissan,Sentra 1.8 S 4dr,Sedan,Asia,Front," 18,42,500 "," 17,18,375 ", 1.80 , 4 , 126 , 28 , 35 ," 2,581 ", 100 , 178 ,0, 4 
+Mitsubishi,Lancer ES 4dr,Sedan,Asia,Front," 18,27,750 "," 17,18,875 ", 2.00 , 4 , 120 , 25 , 31 ," 2,656 ", 102 , 181 ,0, 4 
+Kia,Spectra GSX 4dr hatch,Sedan,Asia,Front," 18,28,750 "," 17,23,750 ", 1.80 , 4 , 124 , 24 , 32 ," 2,697 ", 101 , 178 ,0, 4 
+Chevrolet,Cavalier 4dr,Sedan,USA,Front," 18,51,250 "," 17,35,500 ", 2.20 , 4 , 140 , 26 , 37 ," 2,676 ", 104 , 183 ,0, 4 
+Toyota,Corolla LE 4dr,Sedan,Asia,Front," 19,11,875 "," 17,36,125 ", 1.80 , 4 , 130 , 32 , 40 ," 2,524 ", 102 , 178 ,0, 4 
+Saturn,lon2 quad coupe 2dr,Sedan,USA,Front," 18,56,250 "," 17,38,000 ", 2.20 , 4 , 140 , 26 , 35 ," 2,751 ", 103 , 185 ,0, 4 
+Mazda,B2300 SX Regular Cab,Truck,Asia,Rear," 18,55,000 "," 17,58,750 ", 2.30 , 4 , 143 , 24 , 29 ," 2,960 ", 112 , 188 ,0, 4 
+Dodge,Neon SXT 4dr,Sedan,USA,Front," 18,80,000 "," 17,60,750 ", 2.00 , 4 , 132 , 29 , 36 ," 2,626 ", 105 , 174 ,0, 4 
+Hyundai,Elantra GT 4dr,Sedan,Asia,Front," 19,23,625 "," 17,75,875 ", 2.00 , 4 , 138 , 26 , 34 ," 2,635 ", 103 , 178 ,0, 4 
+Hyundai,Elantra GT 4dr hatch,Sedan,Asia,Front," 19,23,625 "," 17,75,875 ", 2.00 , 4 , 138 , 26 , 34 ," 2,698 ", 103 , 178 ,0, 4 
+Suzuki,Aerio LX 4dr,Sedan,Asia,Front," 18,12,500 "," 17,89,625 ", 2.30 , 4 , 155 , 25 , 31 ," 2,676 ", 98 , 171 ,0, 4 
+Pontiac,Sunfire 1SA 2dr,Sedan,USA,Front," 19,36,875 "," 17,96,875 ", 2.20 , 4 , 140 , 24 , 33 ," 2,771 ", 104 , 182 ,0, 4 
+Ford,Focus SE 4dr,Sedan,USA,Front," 19,32,500 "," 18,12,000 ", 2.00 , 4 , 130 , 26 , 33 ," 2,606 ", 103 , 168 ,0, 4 
+Mazda,Mazda3 i 4dr,Sedan,Asia,Front," 19,37,500 "," 18,15,625 ", 2.00 , 4 , 148 , 26 , 34 ," 2,696 ", 104 , 178 ,0, 4 
+Honda,Civic LX 4dr,Sedan,Asia,Front," 19,81,250 "," 18,16,375 ", 1.70 , 4 , 115 , 32 , 38 ," 2,513 ", 103 , 175 ,0, 4 
+Ford,Focus ZX5 5dr,Sedan,USA,Front," 19,47,500 "," 18,25,875 ", 2.00 , 4 , 130 , 26 , 33 ," 2,691 ", 103 , 168 ,0, 4 
+Saturn,lon3 4dr,Sedan,USA,Front," 19,78,125 "," 18,51,375 ", 2.20 , 4 , 140 , 26 , 35 ," 2,692 ", 103 , 185 ,0, 4 
+GMC,Canyon Z85 SL Regular Cab,Truck,USA,Rear," 20,66,250 "," 18,59,625 ", 2.80 , 4 , 175 , 18 , 25 ," 3,351 ", 111 , 192 ,0, 4 
+Kia,Optima LX 4dr,Sedan,Asia,Front," 20,05,000 "," 18,63,750 ", 2.40 , 4 , 138 , 23 , 30 ," 3,281 ", 106 , 186 ,0, 4 
+Toyota,Tundra Regular Cab V6,Truck,Asia,Rear," 20,61,875 "," 18,72,250 ", 3.40 , 6 , 190 , 16 , 18 ," 3,925 ", 128 , 218 ,0, 4 
+Toyota,Matrix XR,Wagon,Asia,Front," 20,86,875 "," 18,94,500 ", 1.80 , 4 , 130 , 29 , 36 ," 2,679 ", 102 , 171 ,0, 4 
+Saturn,lon3 quad coupe 2dr,Sedan,USA,Front," 20,43,750 "," 19,12,375 ", 2.20 , 4 , 140 , 26 , 35 ," 2,751 ", 103 , 185 ,0, 4 
+Chevrolet,Cavalier LS 2dr,Sedan,USA,Front," 20,48,125 "," 19,19,625 ", 2.20 , 4 , 140 , 26 , 37 ," 2,617 ", 104 , 183 ,0, 4 
+Suzuki,Forenza EX 4dr,Sedan,Asia,Front," 19,46,000 "," 19,22,250 ", 2.00 , 4 , 119 , 22 , 30 ," 2,756 ", 102 , 177 ,0, 4 
+MINI,Cooper,Sedan,Europe,Front," 21,24,875 "," 19,29,625 ", 1.60 , 4 , 115 , 28 , 37 ," 2,524 ", 97 , 143 ,0, 5 
+Mitsubishi,Lancer LS 4dr,Sedan,Asia,Front," 20,90,250 "," 19,64,750 ", 2.00 , 4 , 120 , 25 , 31 ," 2,795 ", 102 , 181 ,0, 4 
+Mazda,Mazda3 s 4dr,Sedan,Asia,Front," 21,50,000 "," 19,90,250 ", 2.30 , 4 , 160 , 25 , 31 ," 2,762 ", 104 , 179 ,0, 5 
+Pontiac,Vibe,Wagon,USA,Rear," 21,30,625 "," 19,96,625 ", 1.80 , 4 , 130 , 29 , 36 ," 2,701 ", 102 , 172 ,0, 5 
+Mitsubishi,Lancer OZ Rally 4dr auto,Sedan,Asia,Front," 21,54,000 "," 20,24,500 ", 2.00 , 4 , 120 , 25 , 31 ," 2,744 ", 102 , 181 ,0, 5 
+Dodge,Dakota Regular Cab,Truck,USA,Rear," 22,03,750 "," 20,33,000 ", 3.70 , 6 , 210 , 16 , 22 ," 3,714 ", 112 , 193 ,0, 5 
+Honda,Civic EX 4dr,Sedan,Asia,Front," 22,18,750 "," 20,33,125 ", 1.70 , 4 , 127 , 32 , 37 ," 2,601 ", 103 , 175 ,0, 5 
+Suzuki,Aerio SX,Wagon,Asia,All," 20,62,125 "," 20,36,375 ", 2.30 , 4 , 155 , 24 , 29 ," 2,932 ", 98 , 167 ,0, 4 
+Mitsubishi,Lancer Sportback LS,Wagon,Asia,Front," 21,86,875 "," 20,36,875 ", 2.40 , 4 , 160 , 25 , 31 ," 3,020 ", 102 , 181 ,0, 5 
+Pontiac,Sunfire 1SC 2dr,Sedan,USA,Front," 22,16,875 "," 20,46,125 ", 2.20 , 4 , 140 , 24 , 33 ," 2,771 ", 104 , 182 ,0, 5 
+Ford,Focus ZTW,Wagon,USA,Front," 21,84,375 "," 20,46,875 ", 2.00 , 4 , 130 , 26 , 33 ," 2,702 ", 103 , 178 ,0, 5 
+Nissan,Sentra SE-R 4dr,Sedan,Asia,Front," 22,05,000 "," 20,55,500 ", 2.50 , 4 , 165 , 23 , 28 ," 2,761 ", 100 , 178 ,0, 5 
+Kia,Optima LX V6 4dr,Sedan,Asia,Front," 23,04,375 "," 21,06,250 ", 2.70 , 6 , 170 , 20 , 27 ," 3,279 ", 106 , 186 ,0, 5 
+Chrysler,PT Cruiser 4dr,Sedan,USA,Front," 22,48,125 "," 21,14,875 ", 2.40 , 4 , 150 , 22 , 29 ," 3,101 ", 103 , 169 ,0, 5 
+Ford,Mustang 2dr (convertible),Sports,USA,Rear," 22,93,125 "," 21,17,875 ", 3.80 , 6 , 193 , 20 , 29 ," 3,290 ", 101 , 183 ,0, 5 
+Suzuki,Vitara LX,SUV,Asia,All," 21,45,375 "," 21,18,625 ", 2.50 , 6 , 165 , 19 , 22 ," 3,020 ", 98 , 163 ,0, 5 
+Suzuki,Verona LX 4dr,Sedan,Asia,Front," 21,57,750 "," 21,31,625 ", 2.50 , 6 , 155 , 20 , 27 ," 3,380 ", 106 , 188 ,0, 5 
+Chevrolet,Colorado Z85,Truck,USA,All," 23,45,000 "," 21,33,750 ", 2.80 , 4 , 175 , 18 , 23 ," 3,623 ", 111 , 192 ,0, 5 
+Hyundai,Tiburon GT V6 2dr,Sports,Asia,Front," 23,42,375 "," 21,37,625 ", 2.70 , 6 , 172 , 19 , 26 ," 3,023 ", 100 , 173 ,0, 5 
+Honda,Element LX,SUV,Asia,All," 23,36,250 "," 21,66,750 ", 2.40 , 4 , 160 , 21 , 24 ," 3,468 ", 101 , 167 ,0, 5 
+Volkswagen,Jetta GL,Wagon,Europe,Front," 23,75,625 "," 21,78,375 ", 2.00 , 4 , 115 , 24 , 30 ," 3,034 ", 99 , 174 ,0, 5 
+Chevrolet,Malibu 4dr,Sedan,USA,Front," 23,74,375 "," 21,79,250 ", 2.20 , 4 , 145 , 24 , 34 ," 3,174 ", 106 , 188 ,0, 5 
+Volkswagen,Golf GLS 4dr,Sedan,Europe,Front," 23,39,375 "," 21,84,750 ", 2.00 , 4 , 115 , 24 , 31 ," 2,897 ", 99 , 165 ,0, 5 
+Dodge,Stratus SXT 4dr,Sedan,USA,Front," 23,52,500 "," 21,89,000 ", 2.40 , 4 , 150 , 21 , 28 ," 3,182 ", 108 , 191 ,0, 5 
+Toyota,Camry LE 4dr,Sedan,Asia,Front," 24,45,000 "," 21,94,750 ", 2.40 , 4 , 157 , 24 , 33 ," 3,086 ", 107 , 189 ,0, 5 
+Mitsubishi,Outlander LS,SUV,Asia,Front," 23,61,500 "," 21,96,125 ", 2.40 , 4 , 160 , 21 , 27 ," 3,240 ", 103 , 179 ,0, 5 
+Hyundai,Sonata GLS 4dr,Sedan,Asia,Front," 24,17,375 "," 21,96,750 ", 2.70 , 6 , 170 , 19 , 27 ," 3,217 ", 106 , 187 ,0, 5 
+Oldsmobile,Alero GX 2dr,Sedan,USA,Front," 23,53,125 "," 22,05,250 ", 2.20 , 4 , 140 , 24 , 32 ," 2,946 ", 107 , 187 ,0, 5 
+Toyota,Camry Solara SE 2dr,Sedan,Asia,Front," 24,54,375 "," 22,15,250 ", 2.40 , 4 , 157 , 24 , 33 ," 3,175 ", 107 , 193 ,0, 5 
+Chrysler,Sebring 4dr,Sedan,USA,Front," 23,86,250 "," 22,25,625 ", 2.40 , 4 , 150 , 22 , 30 ," 3,173 ", 108 , 191 ,0, 5 
+Mazda,Mazda6 i 4dr,Sedan,Asia,Front," 24,08,750 "," 22,27,125 ", 2.30 , 4 , 160 , 24 , 32 ," 3,042 ", 105 , 187 ,0, 5 
+Honda,Civic Si 2dr hatch,Sedan,Asia,Front," 24,36,250 "," 22,31,125 ", 2.00 , 4 , 160 , 26 , 30 ," 2,782 ", 101 , 166 ,0, 5 
+Ford,Focus SVT 2dr,Sedan,USA,Front," 23,91,875 "," 22,34,750 ", 2.00 , 4 , 170 , 21 , 28 ," 2,750 ", 103 , 168 ,0, 5 
+Honda,Insight 2dr (gas/electric),Hybrid,Asia,Front," 23,88,750 "," 22,38,875 ", 2.00 , 3 , 73 , 60 , 66 ," 1,850 ", 95 , 155 ,0, 5 
+Honda,Accord LX 2dr,Sedan,Asia,Front," 24,82,500 "," 22,40,500 ", 2.40 , 4 , 160 , 26 , 34 ," 2,994 ", 105 , 188 ,0, 5 
+Mitsubishi,Galant ES 2.4L 4dr,Sedan,Asia,Front," 24,14,000 "," 22,44,625 ", 2.40 , 4 , 160 , 23 , 30 ," 3,351 ", 108 , 191 ,0, 5 
+Nissan,Altima S 4dr,Sedan,Asia,Front," 24,05,000 "," 22,53,750 ", 2.50 , 4 , 175 , 21 , 26 ," 3,039 ", 110 , 192 ,0, 5 
+Dodge,Ram 1500 Regular Cab ST,Truck,USA,Rear," 25,26,875 "," 22,59,500 ", 3.70 , 6 , 215 , 16 , 21 ," 4,542 ", 121 , 208 ,0, 5 
+Volkswagen,GTI 1.8T 2dr hatch,Sedan,Europe,Front," 24,78,125 "," 22,63,625 ", 1.80 , 4 , 180 , 24 , 31 ," 2,934 ", 99 , 168 ,0, 5 
+MINI,Cooper S,Sedan,Europe,Front," 24,99,875 "," 22,67,125 ", 1.60 , 4 , 163 , 25 , 34 ," 2,678 ", 97 , 144 ,0, 5 
+Nissan,Frontier King Cab XE V6,Truck,Asia,All," 24,34,875 "," 22,81,625 ", 3.30 , 6 , 180 , 17 , 20 ," 3,932 ", 116 , 191 ,0, 5 
+Hyundai,Sonata LX 4dr,Sedan,Asia,Front," 25,42,375 "," 22,97,500 ", 2.70 , 6 , 170 , 19 , 27 ," 3,217 ", 106 , 187 ,1, 5 
+Subaru,Impreza 2.5 RS 4dr,Sedan,Asia,All," 24,93,125 "," 22,99,875 ", 2.50 , 4 , 165 , 22 , 28 ," 2,965 ", 99 , 174 ,0, 5 
+Honda,CR-V LX,SUV,Asia,All," 24,82,500 "," 23,02,375 ", 2.40 , 4 , 160 , 21 , 25 ," 3,258 ", 103 , 179 ,0, 5 
+Honda,Civic Hybrid 4dr manual (gas/electric),Hybrid,Asia,Front," 25,17,500 "," 23,06,375 ", 1.40 , 4 , 93 , 46 , 51 ," 2,732 ", 103 , 175 ,1, 5 
+Chevrolet,Silverado 1500 Regular Cab,Truck,USA,Rear," 25,38,750 "," 23,10,000 ", 4.30 , 6 , 200 , 15 , 21 ," 4,142 ", 119 , 206 ,0, 5 
+Toyota,RAV4,SUV,Asia,All," 25,36,250 "," 23,19,125 ", 2.40 , 4 , 161 , 22 , 27 ," 3,119 ", 98 , 167 ,1, 5 
+Kia,Sorento LX,SUV,Asia,Front," 24,54,375 "," 23,28,750 ", 3.50 , 6 , 192 , 16 , 19 ," 4,112 ", 107 , 180 ,0, 5 
+Chevrolet,Malibu LS 4dr,Sedan,USA,Front," 25,46,250 "," 23,29,875 ", 3.50 , 6 , 200 , 22 , 30 ," 3,297 ", 106 , 188 ,0, 5 
+Dodge,Dakota Club Cab,Truck,USA,Rear," 25,37,500 "," 23,33,750 ", 3.70 , 6 , 210 , 16 , 22 ," 3,829 ", 131 , 219 ,0, 5 
+Subaru,Legacy L 4dr,Sedan,Asia,All," 25,55,625 "," 23,39,125 ", 2.50 , 4 , 165 , 21 , 28 ," 3,285 ", 104 , 184 ,1, 5 
+Dodge,Stratus SE 4dr,Sedan,USA,Front," 25,27,500 "," 23,52,625 ", 2.40 , 4 , 150 , 21 , 28 ," 3,175 ", 108 , 191 ,0, 5 
+Ford,Taurus LX 4dr,Sedan,USA,Front," 25,40,000 "," 23,60,125 ", 3.00 , 6 , 155 , 20 , 27 ," 3,306 ", 109 , 198 ,0, 5 
+Toyota,Prius 4dr (gas/electric),Hybrid,Asia,Front," 25,63,750 "," 23,65,750 ", 1.50 , 4 , 110 , 59 , 51 ," 2,890 ", 106 , 175 ,1, 5 
+Jeep,Liberty Sport,SUV,USA,All," 25,16,250 "," 23,71,625 ", 2.40 , 4 , 150 , 20 , 24 ," 3,826 ", 104 , 174 ,1, 5 
+Chevrolet,Tracker,SUV,USA,Front," 25,31,875 "," 23,88,500 ", 2.50 , 6 , 165 , 19 , 22 ," 2,866 ", 98 , 163 ,0, 5 
+Saturn,VUE,SUV,USA,All," 25,73,125 "," 24,04,750 ", 2.20 , 4 , 143 , 21 , 26 ," 3,381 ", 107 , 181 ,1, 5 
+Isuzu,Rodeo S,SUV,Asia,Front," 25,56,125 "," 24,07,625 ", 3.20 , 6 , 193 , 17 , 21 ," 3,836 ", 106 , 178 ,1, 5 
+Kia,Sedona LX,Sedan,Asia,Front," 25,76,875 "," 24,25,000 ", 3.50 , 6 , 195 , 16 , 22 ," 4,802 ", 115 , 194 ,1, 5 
+Ford,F-150 Regular Cab XL,Truck,USA,Rear," 27,51,250 "," 24,36,250 ", 4.60 , 8 , 231 , 15 , 19 ," 4,788 ", 126 , 211 ,0, 5 
+Nissan,Xterra XE V6,SUV,Asia,Front," 26,17,375 "," 24,39,000 ", 3.30 , 6 , 180 , 17 , 20 ," 3,760 ", 104 , 178 ,1, 5 
+Volkswagen,Jetta GLS TDI 4dr,Sedan,Europe,Front," 26,31,875 "," 24,54,750 ", 1.90 , 4 , 100 , 38 , 46 ," 3,003 ", 99 , 172 ,1, 5 
+Volkswagen,New Beetle GLS 1.8T 2dr,Sedan,Europe,Front," 26,31,875 "," 24,54,750 ", 1.80 , 4 , 150 , 24 , 31 ," 2,820 ", 99 , 161 ,1, 5 
+Subaru,Forester X,Wagon,Asia,All," 26,80,625 "," 24,55,750 ", 2.50 , 4 , 165 , 21 , 28 ," 3,090 ", 99 , 175 ,1, 5 
+Mazda,Tribute DX 2.0,SUV,Asia,All," 26,35,875 "," 24,67,750 ", 2.00 , 4 , 130 , 22 , 25 ," 3,091 ", 103 , 173 ,1, 5 
+Saturn,L300-2 4dr,Sedan,USA,Front," 26,76,250 "," 24,75,125 ", 3.00 , 6 , 182 , 20 , 28 ," 3,197 ", 107 , 190 ,1, 5 
+Pontiac,Aztekt,SUV,USA,Front," 26,99,375 "," 24,76,250 ", 3.40 , 6 , 185 , 19 , 26 ," 3,779 ", 108 , 182 ,1, 5 
+Toyota,Camry Solara SE V6 2dr,Sedan,Asia,Front," 27,45,625 "," 24,77,375 ", 3.30 , 6 , 225 , 20 , 29 ," 3,417 ", 107 , 193 ,1, 5 
+Mercury,Sable GS 4dr,Sedan,USA,Front," 26,99,375 "," 24,81,000 ", 3.00 , 6 , 155 , 20 , 27 ," 3,308 ", 109 , 200 ,1, 5 
+Chevrolet,Monte Carlo LS 2dr,Sedan,USA,Front," 27,28,125 "," 25,03,250 ", 3.40 , 6 , 180 , 21 , 32 ," 3,340 ", 111 , 198 ,0, 5 
+Honda,Accord EX 2dr,Sedan,Asia,Front," 27,82,500 "," 25,10,000 ", 2.40 , 4 , 160 , 26 , 34 ," 3,047 ", 105 , 188 ,1, 5 
+Chevrolet,Impala 4dr,Sedan,USA,Front," 27,37,500 "," 25,11,875 ", 3.40 , 6 , 180 , 21 , 32 ," 3,465 ", 111 , 200 ,0, 5 
+Hyundai,Santa Fe GLS,SUV,Asia,Front," 26,98,625 "," 25,25,125 ", 2.70 , 6 , 173 , 20 , 26 ," 3,549 ", 103 , 177 ,1, 5 
+Chrysler,Sebring Touring 4dr,Sedan,USA,Front," 27,30,000 "," 25,35,500 ", 2.70 , 6 , 200 , 21 , 28 ," 3,222 ", 108 , 191 ,0, 5 
+Toyota,Camry LE V6 4dr,Sedan,Asia,Front," 28,46,875 "," 25,40,625 ", 3.00 , 6 , 210 , 21 , 29 ," 3,296 ", 107 , 189 ,1, 5 
+Buick,Century Custom 4dr,Sedan,USA,Front," 27,72,500 "," 25,43,875 ", 3.10 , 6 , 175 , 20 , 30 ," 3,353 ", 109 , 195 ,0, 5 
+Toyota,Celica GT-S 2dr,Sports,Asia,Front," 28,21,250 "," 25,45,375 ", 1.80 , 4 , 180 , 24 , 33 ," 2,500 ", 102 , 171 ,1, 5 
+Chevrolet,Malibu Maxx LS,Wagon,USA,Front," 27,78,125 "," 25,49,250 ", 3.50 , 6 , 200 , 22 , 30 ," 3,458 ", 112 , 188 ,0, 5 
+Ford,Taurus SE,Wagon,USA,Front," 27,86,250 "," 25,57,125 ", 3.00 , 6 , 155 , 19 , 26 ," 3,497 ", 109 , 198 ,0, 5 
+Mazda,B4000 SE Cab Plus,Truck,Asia,All," 27,93,750 "," 25,60,250 ", 4.00 , 6 , 207 , 15 , 19 ," 3,571 ", 126 , 203 ,1, 5 
+Dodge,Intrepid SE 4dr,Sedan,USA,Front," 27,54,375 "," 25,62,750 ", 2.70 , 6 , 200 , 21 , 29 ," 3,469 ", 113 , 204 ,0, 5 
+Dodge,Caravan SE,Sedan,USA,Front," 27,24,375 "," 25,63,500 ", 2.40 , 4 , 150 , 20 , 26 ," 3,862 ", 113 , 189 ,0, 5 
+Pontiac,Grand Prix GT1 4dr,Sedan,USA,Front," 27,99,375 "," 25,68,125 ", 3.80 , 6 , 200 , 20 , 30 ," 3,477 ", 111 , 198 ,1, 5 
+Chrysler,PT Cruiser Limited 4dr,Sedan,USA,Front," 27,50,000 "," 25,71,625 ", 2.40 , 4 , 150 , 22 , 29 ," 3,105 ", 103 , 169 ,0, 5 
+Pontiac,Grand Am GT 2dr,Sedan,USA,Front," 28,06,250 "," 25,74,375 ", 3.40 , 6 , 175 , 20 , 29 ," 3,118 ", 107 , 186 ,1, 5 
+Mazda,MX-5 Miata convertible 2dr,Sports,Asia,Rear," 27,98,500 "," 25,87,625 ", 1.80 , 4 , 142 , 23 , 28 ," 2,387 ", 89 , 156 ,1, 5 
+Mercury,Sable GS,Wagon,USA,Front," 28,24,375 "," 25,93,500 ", 3.00 , 6 , 155 , 19 , 26 ," 3,488 ", 109 , 198 ,1, 5 
+Ford,Taurus SES Duratec 4dr,Sedan,USA,Front," 28,41,875 "," 26,07,125 ", 3.00 , 6 , 201 , 19 , 26 ," 3,313 ", 109 , 198 ,0, 5 
+Ford,Escape XLS,SUV,USA,All," 28,14,375 "," 26,13,375 ", 3.00 , 6 , 201 , 18 , 23 ," 3,346 ", 103 , 173 ,0, 5 
+Toyota,Sienna CE,Sedan,Asia,Front," 29,36,875 "," 26,49,750 ", 3.30 , 6 , 230 , 19 , 27 ," 4,120 ", 119 , 200 ,1, 5 
+Honda,Accord LX V6 4dr,Sedan,Asia,Front," 29,70,000 "," 26,78,500 ", 3.00 , 6 , 240 , 21 , 30 ," 3,349 ", 108 , 190 ,1, 5 
+Oldsmobile,Alero GLS 2dr,Sedan,USA,Front," 29,59,375 "," 26,85,625 ", 3.40 , 6 , 170 , 20 , 29 ," 3,085 ", 107 , 187 ,1, 5 
+Chevrolet,Malibu LT 4dr,Sedan,USA,Front," 29,36,875 "," 26,93,875 ", 3.50 , 6 , 200 , 23 , 32 ," 3,315 ", 106 , 188 ,0, 5 
+Nissan,Altima SE 4dr,Sedan,Asia,Front," 29,11,250 "," 26,97,500 ", 3.50 , 6 , 245 , 21 , 26 ," 3,197 ", 110 , 192 ,1, 5 
+Pontiac,Montana,Sedan,USA,Front," 29,80,625 "," 27,05,500 ", 3.40 , 6 , 185 , 19 , 26 ," 3,803 ", 112 , 187 ,1, 5 
+Volkswagen,Jetta GLI VR6 4dr,Sedan,Europe,Front," 29,73,125 "," 27,10,750 ", 2.80 , 6 , 200 , 21 , 30 ," 3,179 ", 99 , 172 ,1, 5 
+Volkswagen,New Beetle GLS convertible 2dr,Sedan,Europe,Front," 29,01,875 "," 27,11,125 ", 2.00 , 4 , 115 , 24 , 30 ," 3,082 ", 99 , 161 ,1, 5 
+Acura,RSX Type S 2dr,Sedan,Asia,Front," 29,77,500 "," 27,20,125 ", 2.00 , 4 , 200 , 24 , 31 ," 2,778 ", 101 , 172 ,0, 5 
+Subaru,Outback,Wagon,Asia,All," 29,86,875 "," 27,21,625 ", 2.50 , 4 , 165 , 21 , 28 ," 3,430 ", 104 , 187 ,1, 5 
+Saturn,L300 2,Wagon,USA,Front," 29,45,000 "," 27,22,375 ", 2.20 , 4 , 140 , 24 , 34 ," 3,109 ", 107 , 190 ,1, 5 
+Volkswagen,Passat GLS 4dr,Sedan,Europe,Front," 29,94,375 "," 27,37,250 ", 1.80 , 4 , 170 , 22 , 31 ," 3,241 ", 106 , 185 ,1, 5 
+Mercury,Sable LS Premium 4dr,Sedan,USA,Front," 29,86,875 "," 27,39,750 ", 3.00 , 6 , 201 , 19 , 26 ," 3,315 ", 109 , 200 ,1, 5 
+Hyundai,XG350 4dr,Sedan,Asia,Front," 30,73,625 "," 27,56,875 ", 3.50 , 6 , 194 , 17 , 26 ," 3,651 ", 108 , 192 ,1, 5 
+Chevrolet,Monte Carlo SS 2dr,Sedan,USA,Front," 30,28,125 "," 27,77,750 ", 3.80 , 6 , 200 , 18 , 28 ," 3,434 ", 111 , 198 ,1, 5 
+Pontiac,Grand Prix GT2 4dr,Sedan,USA,Front," 30,36,875 "," 27,85,500 ", 3.80 , 6 , 200 , 20 , 30 ," 3,484 ", 111 , 198 ,1, 5 
+Subaru,Baja,Truck,Asia,All," 30,65,000 "," 27,88,000 ", 2.50 , 4 , 165 , 21 , 28 ," 3,485 ", 104 , 193 ,1, 5 
+Suzuki,XL-7 EX,SUV,Asia,Front," 29,62,375 "," 27,88,375 ", 2.70 , 6 , 185 , 18 , 22 ," 3,682 ", 110 , 187 ,1, 5 
+Chrysler,Concorde LX 4dr,Sedan,USA,Front," 30,16,250 "," 28,06,500 ", 2.70 , 6 , 200 , 21 , 29 ," 3,479 ", 113 , 208 ,1, 5 
+Honda,Odyssey LX,Sedan,Asia,Front," 31,18,750 "," 28,12,250 ", 3.50 , 6 , 240 , 18 , 25 ," 4,310 ", 118 , 201 ,1, 5 
+GMC,Sierra Extended Cab 1500,Truck,USA,Rear," 32,14,625 "," 28,25,500 ", 4.80 , 8 , 285 , 17 , 20 ," 4,548 ", 144 , 230 ,1, 5 
+Toyota,MR2 Spyder convertible 2dr,Sports,Asia,Rear," 31,41,250 "," 28,48,375 ", 1.80 , 4 , 138 , 26 , 32 ," 2,195 ", 97 , 153 ,1, 5 
+Volkswagen,Passat GLS 1.8T,Wagon,Europe,Front," 31,19,375 "," 28,50,125 ", 1.80 , 4 , 170 , 22 , 31 ," 3,338 ", 106 , 184 ,1, 5 
+Buick,Regal LS 4dr,Sedan,USA,Front," 31,11,875 "," 28,54,375 ", 3.80 , 6 , 200 , 20 , 30 ," 3,461 ", 109 , 196 ,0, 5 
+Ford,Crown Victoria 4dr,Sedan,USA,Rear," 30,43,125 "," 28,57,000 ", 4.60 , 8 , 224 , 17 , 25 ," 4,057 ", 115 , 212 ,1, 5 
+Chevrolet,Impala LS 4dr,Sedan,USA,Front," 31,25,000 "," 28,66,375 ", 3.80 , 6 , 200 , 20 , 30 ," 3,476 ", 111 , 200 ,1, 5 
+Nissan,Quest S,Sedan,Asia,Front," 30,97,500 "," 28,69,750 ", 3.50 , 6 , 240 , 19 , 26 ," 4,012 ", 124 , 204 ,1, 5 
+Subaru,Impreza WRX 4dr,Sports,Asia,All," 31,30,625 "," 28,77,750 ", 2.00 , 4 , 227 , 20 , 27 ," 3,085 ", 99 , 174 ,1, 5 
+GMC,Sonoma Crew Cab,Truck,USA,All," 31,74,375 "," 28,80,375 ", 4.30 , 6 , 190 , 15 , 19 ," 4,083 ", 123 , 208 ,1, 5 
+Dodge,Intrepid ES 4dr,Sedan,USA,Front," 31,10,625 "," 28,82,250 ", 3.50 , 6 , 232 , 18 , 27 ," 3,487 ", 113 , 204 ,1, 5 
+Toyota,Camry XLE V6 4dr,Sedan,Asia,Front," 32,40,000 "," 28,90,625 ", 3.00 , 6 , 210 , 21 , 29 ," 3,362 ", 107 , 189 ,1, 5 
+GMC,Safari SLE,Sedan,USA,Rear," 32,05,000 "," 29,01,875 ", 4.30 , 6 , 190 , 16 , 20 ," 4,309 ", 111 , 190 ,1, 5 
+Mercury,Grand Marquis GS 4dr,Sedan,USA,Rear," 30,86,875 "," 29,02,125 ", 4.60 , 8 , 224 , 17 , 25 ," 4,052 ", 115 , 212 ,1, 5 
+Jeep,Wrangler Sahara convertible 2dr,SUV,USA,All," 31,90,000 "," 29,09,375 ", 4.00 , 6 , 190 , 16 , 19 ," 3,575 ", 93 , 150 ,1, 5 
+Mazda,MX-5 Miata LS convertible 2dr,Sports,Asia,Rear," 31,49,125 "," 29,10,625 ", 1.80 , 4 , 142 , 23 , 28 ," 2,387 ", 89 , 156 ,1, 5 
+Subaru,Legacy GT 4dr,Sedan,Asia,All," 32,05,625 "," 29,17,000 ", 2.50 , 4 , 165 , 21 , 28 ," 3,395 ", 104 , 184 ,1, 5 
+Chrysler,Sebring convertible 2dr,Sedan,USA,Front," 31,51,875 "," 29,31,375 ", 2.40 , 4 , 150 , 22 , 30 ," 3,357 ", 106 , 194 ,1, 5 
+Mitsubishi,Eclipse GTS 2dr,Sports,Asia,Front," 31,36,500 "," 29,32,000 ", 3.00 , 6 , 210 , 21 , 28 ," 3,241 ", 101 , 177 ,1, 5 
+Hyundai,XG350 L 4dr,Sedan,Asia,Front," 32,73,625 "," 29,35,750 ", 3.50 , 6 , 194 , 17 , 26 ," 3,651 ", 108 , 192 ,1, 5 
+Audi,A4 1.8T 4dr,Sedan,Europe,Front," 32,42,500 "," 29,38,500 ", 1.80 , 4 , 170 , 22 , 31 ," 3,252 ", 104 , 179 ,0, 5 
+Toyota,Tundra Access Cab V6 SR5,Truck,Asia,All," 32,41,875 "," 29,40,000 ", 3.40 , 6 , 190 , 14 , 17 ," 4,435 ", 128 , 218 ,1, 5 
+Toyota,Avalon XL 4dr,Sedan,Asia,Front," 33,20,000 "," 29,61,625 ", 3.00 , 6 , 210 , 21 , 29 ," 3,417 ", 107 , 192 ,1, 5 
+Volvo,S40 4dr,Sedan,Europe,Front," 31,41,875 "," 29,62,625 ", 1.90 , 4 , 170 , 22 , 29 ," 2,767 ", 101 , 178 ,1, 5 
+Kia,Amanti 4dr,Sedan,Asia,Front," 32,50,000 "," 29,70,500 ", 3.50 , 6 , 195 , 17 , 25 ," 4,021 ", 110 , 196 ,1, 5 
+Mazda,RX-8 4dr automatic,Sports,Asia,Rear," 32,12,500 "," 29,74,250 ", 1.30 ,, 197 , 18 , 25 ," 3,053 ", 106 , 174 ,1, 5 
+Mitsubishi,Galant GTS 4dr,Sedan,Asia,Front," 32,12,500 "," 29,85,375 ", 3.80 , 6 , 230 , 18 , 26 ," 3,649 ", 108 , 191 ,1, 5 
+Toyota,Camry Solara SLE V6 2dr,Sedan,Asia,Front," 33,13,750 "," 29,88,500 ", 3.30 , 6 , 225 , 20 , 29 ," 3,439 ", 107 , 193 ,1, 5 
+Chevrolet,Astro,Sedan,USA,All," 32,99,375 "," 29,94,250 ", 4.30 , 6 , 190 , 14 , 17 ," 4,605 ", 111 , 190 ,1, 5 
+Land Rover,Freelander SE,SUV,Europe,All," 32,49,375 "," 29,96,125 ", 2.50 , 6 , 174 , 18 , 21 ," 3,577 ", 101 , 175 ,1, 5 
+Buick,Rendezvous CX,SUV,USA,Front," 33,18,125 "," 30,10,625 ", 3.40 , 6 , 185 , 19 , 26 ," 4,024 ", 112 , 187 ,0, 5 
+Chrysler,PT Cruiser GT 4dr,Sedan,USA,Front," 32,44,375 "," 30,21,500 ", 2.40 , 4 , 220 , 21 , 27 ," 3,217 ", 103 , 169 ,1, 5 
+Mercedes-Benz,C230 Sport 2dr,Sedan,Europe,Rear," 32,57,500 "," 30,31,125 ", 1.80 , 4 , 189 , 22 , 30 ," 3,250 ", 107 , 178 ,1, 5 
+Buick,LeSabre Custom 4dr,Sedan,USA,Front," 33,08,750 "," 30,35,250 ", 3.80 , 6 , 205 , 20 , 29 ," 3,567 ", 112 , 200 ,0, 5 
+Honda,Accord EX V6 2dr,Sedan,Asia,Front," 33,70,000 "," 30,38,000 ", 3.00 , 6 , 240 , 21 , 30 ," 3,294 ", 105 , 188 ,1, 5 
+Ford,Freestar SE,Sedan,USA,Front," 33,66,250 "," 30,62,250 ", 3.90 , 6 , 193 , 17 , 23 ," 4,275 ", 121 , 201 ,1, 5 
+Chevrolet,Venture LS,Sedan,USA,Front," 33,77,500 "," 30,64,750 ", 3.40 , 6 , 185 , 19 , 26 ," 3,699 ", 112 , 187 ,1, 5 
+Volvo,V40,Wagon,Europe,Front," 32,66,875 "," 30,80,125 ", 1.90 , 4 , 170 , 22 , 29 ," 2,822 ", 101 , 180 ,1, 5 
+Acura,TSX 4dr,Sedan,Asia,Front," 33,73,750 "," 30,80,875 ", 2.40 , 4 , 200 , 22 , 29 ," 3,230 ", 105 , 183 ,0, 5 
+Subaru,Outback Limited Sedan 4dr,Sedan,Asia,All," 33,93,125 "," 30,85,875 ", 2.50 , 4 , 165 , 20 , 27 ," 3,495 ", 104 , 184 ,1, 5 
+Honda,Odyssey EX,Sedan,Asia,Front," 34,31,250 "," 30,93,000 ", 3.50 , 6 , 240 , 18 , 25 ," 4,365 ", 118 , 201 ,1, 5 
+Toyota,4Runner SR5 V6,SUV,Asia,Front," 34,63,750 "," 31,00,125 ", 4.00 , 6 , 245 , 18 , 21 ," 4,035 ", 110 , 189 ,1, 5 
+Honda,Pilot LX,SUV,Asia,All," 34,45,000 "," 31,05,375 ", 3.50 , 6 , 240 , 17 , 22 ," 4,387 ", 106 , 188 ,1, 5 
+Chrysler,Concorde LXi 4dr,Sedan,USA,Front," 33,57,500 "," 31,13,625 ", 3.50 , 6 , 232 , 19 , 27 ," 3,548 ", 113 , 208 ,1, 5 
+Toyota,Highlander V6,SUV,Asia,All," 34,91,250 "," 31,14,375 ", 3.30 , 6 , 230 , 18 , 24 ," 3,935 ", 107 , 185 ,1, 5 
+Nissan,Titan King Cab XE,Truck,Asia,All," 33,31,250 "," 31,15,750 ", 5.60 , 8 , 305 , 14 , 18 ," 5,287 ", 140 , 224 ,1, 5 
+Ford,Crown Victoria LX 4dr,Sedan,USA,Rear," 34,21,250 "," 31,38,125 ", 4.60 , 8 , 224 , 17 , 25 ," 4,057 ", 115 , 212 ,1, 5 
+Mazda,RX-8 4dr manual,Sports,Asia,Rear," 34,00,000 "," 31,47,375 ", 1.30 ,, 238 , 18 , 24 ," 3,029 ", 106 , 174 ,1, 5 
+Nissan,Maxima SE 4dr,Sedan,Asia,Front," 34,36,250 "," 31,47,750 ", 3.50 , 6 , 265 , 20 , 28 ," 3,473 ", 111 , 194 ,1, 5 
+Nissan,350Z coupe 2dr,Sports,Asia,Rear," 33,63,750 "," 31,50,375 ", 3.50 , 6 , 287 , 20 , 26 ," 3,188 ", 104 , 169 ,1, 5 
+Mitsubishi,Eclipse Spyder GT convertible 2dr,Sports,Asia,Front," 33,74,000 "," 31,52,250 ", 3.00 , 6 , 210 , 21 , 28 ," 3,296 ", 101 , 177 ,1, 5 
+Chrysler,Town and Country LX,Sedan,USA,Front," 34,36,250 "," 31,71,375 ", 3.30 , 6 , 180 , 19 , 26 ," 4,068 ", 119 , 201 ,1, 5 
+Chevrolet,Impala SS 4dr,Sedan,USA,Front," 34,99,375 "," 32,09,000 ", 3.80 , 6 , 240 , 18 , 28 ," 3,606 ", 111 , 200 ,1, 5 
+Jeep,Grand Cherokee Laredo,SUV,USA,Front," 34,88,125 "," 32,10,750 ", 4.00 , 6 , 195 , 16 , 21 ," 3,790 ", 106 , 181 ,1, 5 
+Toyota,Sienna XLE Limited,Sedan,Asia,Front," 36,00,000 "," 32,11,250 ", 3.30 , 6 , 230 , 19 , 27 ," 4,165 ", 119 , 200 ,1, 5 
+GMC,Sierra HD 2500,Truck,USA,All," 36,65,250 "," 32,19,875 ", 6.00 , 8 , 300 , 13 , 18 ," 5,440 ", 133 , 222 ,1, 5 
+Nissan,Pathfinder SE,SUV,Asia,Front," 34,17,375 "," 32,46,500 ", 3.50 , 6 , 240 , 16 , 21 ," 3,871 ", 106 , 183 ,1, 5 
+Buick,Regal GS 4dr,Sedan,USA,Front," 35,43,125 "," 32,55,875 ", 3.80 , 6 , 240 , 18 , 28 ," 3,536 ", 109 , 196 ,0, 5 
+Oldsmobile,Silhouette GL,Sedan,USA,Front," 35,98,750 "," 32,65,000 ", 3.40 , 6 , 185 , 19 , 26 ," 3,948 ", 120 , 201 ,1, 5 
+BMW,325i 4dr,Sedan,Europe,Rear," 35,61,875 "," 32,69,375 ", 2.50 , 6 , 184 , 20 , 29 ," 3,219 ", 107 , 176 ,0, 5 
+Infiniti,G35 4dr,Sedan,Asia,Rear," 35,61,875 "," 32,69,625 ", 3.50 , 6 , 260 , 18 , 26 ," 3,336 ", 112 , 187 ,1, 5 
+Mercedes-Benz,C320 Sport 2dr,Sedan,Europe,Rear," 35,46,250 "," 33,04,375 ", 3.20 , 6 , 215 , 19 , 26 ," 3,430 ", 107 , 178 ,1, 5 
+Mazda,MPV ES,Sedan,Asia,Front," 35,93,750 "," 33,25,000 ", 3.00 , 6 , 200 , 18 , 25 ," 3,812 ", 112 , 188 ,1, 5 
+Subaru,Outback H6 4dr,Sedan,Asia,All," 36,68,125 "," 33,32,500 ", 3.00 , 6 , 212 , 19 , 26 ," 3,610 ", 104 , 184 ,1, 5 
+Ford,Mustang GT Premium convertible 2dr,Sports,USA,Rear," 36,72,500 "," 33,59,375 ", 4.60 , 8 , 260 , 17 , 25 ," 3,347 ", 101 , 183 ,1, 5 
+Nissan,Maxima SL 4dr,Sedan,Asia,Front," 36,80,000 "," 33,70,750 ", 3.50 , 6 , 265 , 20 , 28 ," 3,476 ", 111 , 194 ,1, 5 
+Ford,Explorer XLT V6,SUV,USA,All," 37,08,750 "," 33,72,875 ", 4.00 , 6 , 210 , 15 , 20 ," 4,463 ", 114 , 190 ,1, 5 
+Mercury,Grand Marquis LS Premium 4dr,Sedan,USA,Rear," 36,99,375 "," 33,93,500 ", 4.60 , 8 , 224 , 17 , 25 ," 4,052 ", 115 , 212 ,1, 5 
+Mitsubishi,Diamante LS 4dr,Sedan,Asia,Front," 36,60,250 "," 34,06,250 ", 3.50 , 6 , 205 , 18 , 25 ," 3,549 ", 107 , 194 ,1, 5 
+Toyota,Avalon XLS 4dr,Sedan,Asia,Front," 38,65,000 "," 34,08,875 ", 3.00 , 6 , 210 , 21 , 29 ," 3,439 ", 107 , 192 ,1, 5 
+Nissan,Murano SL,Wagon,Asia,Rear," 35,92,375 "," 34,12,500 ", 3.50 , 6 , 245 , 20 , 25 ," 3,801 ", 111 , 188 ,1, 5 
+Mercury,Mountaineer,SUV,USA,Front," 37,49,375 "," 34,14,625 ", 4.00 , 6 , 210 , 16 , 21 ," 4,374 ", 114 , 190 ,1, 5 
+Jaguar,X-Type 2.5 4dr,Sedan,Europe,All," 37,49,375 "," 34,19,375 ", 2.50 , 6 , 192 , 18 , 26 ," 3,428 ", 107 , 184 ,1, 5 
+Lexus,IS 300 4dr manual,Sedan,Asia,Rear," 38,80,625 "," 34,25,500 ", 3.00 , 6 , 215 , 18 , 25 ," 3,255 ", 105 , 177 ,1, 5 
+Mitsubishi,Lancer Evolution 4dr,Sports,Asia,Front," 36,95,250 "," 34,33,250 ", 2.00 , 4 , 271 , 18 , 26 ," 3,263 ", 103 , 179 ,1, 5 
+Chevrolet,TrailBlazer LT,SUV,USA,Front," 37,86,875 "," 34,34,875 ", 4.20 , 6 , 275 , 16 , 21 ," 4,425 ", 113 , 192 ,1, 5 
+Infiniti,G35 Sport Coupe 2dr,Sedan,Asia,Rear," 37,24,375 "," 34,42,000 ", 3.50 , 6 , 280 , 18 , 26 ," 3,416 ", 112 , 182 ,1, 5 
+BMW,325xi 4dr,Sedan,Europe,All," 37,80,625 "," 34,68,125 ", 2.50 , 6 , 184 , 19 , 27 ," 3,461 ", 107 , 176 ,1, 5 
+Ford,Crown Victoria LX Sport 4dr,Sedan,USA,Rear," 37,89,375 "," 34,69,500 ", 4.60 , 8 , 239 , 17 , 25 ," 4,057 ", 115 , 212 ,1, 5 
+Chrysler,300M 4dr,Sedan,USA,Front," 37,33,125 "," 34,74,625 ", 3.50 , 6 , 250 , 18 , 27 ," 3,581 ", 113 , 198 ,1, 5 
+BMW,325Ci 2dr,Sedan,Europe,Rear," 38,49,375 "," 35,30,625 ", 2.50 , 6 , 184 , 20 , 29 ," 3,197 ", 107 , 177 ,1, 5 
+Mercury,Grand Marquis LS Ultimate 4dr,Sedan,USA,Rear," 38,61,875 "," 35,39,750 ", 4.60 , 8 , 224 , 17 , 25 ," 4,052 ", 115 , 212 ,1, 5 
+Infiniti,I35 4dr,Sedan,Asia,Front," 38,93,125 "," 35,40,000 ", 3.50 , 6 , 255 , 19 , 26 ," 3,306 ", 108 , 194 ,1, 5 
+Mitsubishi,Endeavor XLS,SUV,Asia,All," 38,11,500 "," 35,41,250 ", 3.80 , 6 , 215 , 17 , 21 ," 4,134 ", 109 , 190 ,1, 5 
+Pontiac,Montana EWB,Sedan,USA,All," 39,21,250 "," 35,56,750 ", 3.40 , 6 , 185 , 18 , 24 ," 4,431 ", 121 , 201 ,1, 5 
+Cadillac,CTS VVT 4dr,Sedan,USA,Rear," 38,54,375 "," 35,71,875 ", 3.60 , 6 , 255 , 18 , 25 ," 3,694 ", 113 , 190 ,1, 5 
+Subaru,Outback H-6 VDC 4dr,Sedan,Asia,All," 39,43,125 "," 35,75,375 ", 3.00 , 6 , 212 , 19 , 26 ," 3,630 ", 104 , 184 ,1, 5 
+Lexus,IS 300 4dr auto,Sedan,Asia,Rear," 40,51,875 "," 35,76,375 ", 3.00 , 6 , 215 , 18 , 24 ," 3,285 ", 105 , 177 ,1, 6 
+Chrysler,Sebring Limited convertible 2dr,Sedan,USA,Front," 38,68,750 "," 35,76,625 ", 2.70 , 6 , 200 , 21 , 28 ," 3,448 ", 106 , 194 ,1, 5 
+Lexus,IS 300 SportCross,Wagon,Asia,Rear," 40,56,875 "," 35,80,875 ", 3.00 , 6 , 215 , 18 , 24 ," 3,410 ", 105 , 177 ,1, 6 
+Chrysler,Pacifica,Wagon,USA,Rear," 39,03,750 "," 35,90,625 ", 3.50 , 6 , 250 , 17 , 23 ," 4,675 ", 116 , 199 ,1, 5 
+Lexus,ES 330 4dr,Sedan,Asia,Front," 40,43,750 "," 35,94,375 ", 3.30 , 6 , 225 , 20 , 29 ," 3,460 ", 107 , 191 ,1, 6 
+Audi,A4 3.0 4dr,Sedan,Europe,Front," 39,80,000 "," 36,05,750 ", 3.00 , 6 , 220 , 20 , 28 ," 3,462 ", 104 , 179 ,0, 5 
+GMC,Envoy XUV SLE,SUV,USA,Front," 39,86,250 "," 36,15,250 ", 4.20 , 6 , 275 , 15 , 19 ," 4,945 ", 129 , 208 ,1, 5 
+Subaru,Impreza WRX STi 4dr,Sports,Asia,All," 39,43,125 "," 36,41,250 ", 2.50 , 4 , 300 , 18 , 24 ," 3,263 ", 100 , 174 ,1, 5 
+Saab,9-3 Arc Sport 4dr,Sedan,Europe,Front," 38,57,500 "," 36,58,625 ", 2.00 , 4 , 210 , 20 , 28 ," 3,175 ", 105 , 183 ,1, 5 
+Ford,F-150 Supercab Lariat,Truck,USA,All," 41,92,500 "," 36,75,625 ", 5.40 , 8 , 300 , 14 , 18 ," 5,464 ", 133 , 218 ,1, 6 
+Dodge,Durango SLT,SUV,USA,All," 40,29,375 "," 36,84,000 ", 4.70 , 8 , 230 , 15 , 21 ," 4,987 ", 119 , 201 ,1, 5 
+Buick,LeSabre Limited 4dr,Sedan,USA,Front," 40,30,625 "," 36,95,750 ", 3.80 , 6 , 205 , 20 , 29 ," 3,591 ", 112 , 200 ,1, 6 
+Infiniti,G35 4dr,Sedan,Asia,All," 40,55,625 "," 37,22,875 ", 3.50 , 6 , 260 , 18 , 26 ," 3,677 ", 112 , 187 ,1, 6 
+Dodge,Grand Caravan SXT,Sedan,USA,All," 40,82,500 "," 37,26,500 ", 3.80 , 6 , 215 , 18 , 25 ," 4,440 ", 119 , 201 ,1, 6 
+Volvo,S60 2.5 4dr,Sedan,Europe,All," 39,68,125 "," 37,39,500 ", 2.50 , 5 , 208 , 20 , 27 ," 3,903 ", 107 , 180 ,1, 5 
+Honda,S2000 convertible 2dr,Sports,Asia,Rear," 41,57,500 "," 37,45,625 ", 2.20 , 4 , 240 , 20 , 25 ," 2,835 ", 95 , 162 ,1, 6 
+Lincoln,LS V6 Luxury 4dr,Sedan,USA,Rear," 40,61,875 "," 37,46,125 ", 3.00 , 6 , 232 , 20 , 26 ," 3,681 ", 115 , 194 ,1, 6 
+Isuzu,Ascender S,SUV,Asia,All," 39,81,125 "," 37,47,125 ", 4.20 , 6 , 275 , 15 , 20 ," 4,967 ", 129 , 208 ,1, 5 
+Nissan,Quest SE,Sedan,Asia,Front," 40,97,500 "," 37,52,375 ", 3.50 , 6 , 240 , 18 , 25 ," 4,175 ", 124 , 204 ,1, 6 
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear," 40,35,000 "," 37,58,875 ", 2.60 , 6 , 168 , 20 , 25 ," 3,360 ", 107 , 178 ,1, 6 
+BMW,325xi Sport,Wagon,Europe,All," 41,05,625 "," 37,63,750 ", 2.50 , 6 , 184 , 19 , 26 ," 3,594 ", 107 , 176 ,1, 6 
+Acura,TL 4dr,Sedan,Asia,Front," 41,49,375 "," 37,87,375 ", 3.20 , 6 , 270 , 20 , 28 ," 3,575 ", 108 , 186 ,1, 6 
+Audi,A4 3.0 Quattro 4dr manual,Sedan,Europe,All," 41,78,750 "," 37,95,750 ", 3.00 , 6 , 220 , 17 , 26 ," 3,583 ", 104 , 179 ,1, 6 
+Ford,Expedition 4.6 XLT,SUV,USA,Front," 43,20,000 "," 38,08,500 ", 4.60 , 8 , 232 , 15 , 19 ," 5,000 ", 119 , 206 ,1, 6 
+Volkswagen,Passat GLX V6 4MOTION 4dr,Sedan,Europe,Front," 41,47,500 "," 38,22,875 ", 2.80 , 6 , 190 , 19 , 26 ," 3,721 ", 106 , 185 ,1, 6 
+Pontiac,GTO 2dr,Sports,USA,Rear," 41,87,500 "," 38,38,750 ", 5.70 , 8 , 340 , 16 , 20 ," 3,725 ", 110 , 190 ,1, 6 
+Mitsubishi,Montero XLS,SUV,Asia,All," 41,39,000 "," 38,45,375 ", 3.80 , 6 , 215 , 15 , 19 ," 4,718 ", 110 , 190 ,1, 6 
+Nissan,Pathfinder Armada SE,SUV,Asia,Front," 42,30,000 "," 38,51,875 ", 5.60 , 8 , 305 , 13 , 19 ," 5,013 ", 123 , 207 ,1, 6 
+Mercury,Monterey Luxury,Sedan,USA,Front," 42,49,375 "," 38,55,750 ", 4.20 , 6 , 201 , 16 , 23 ," 4,340 ", 121 , 202 ,1, 6 
+Chrysler,300M Special Edition 4dr,Sedan,USA,Front," 41,61,875 "," 38,60,500 ", 3.50 , 6 , 255 , 18 , 27 ," 3,650 ", 113 , 198 ,1, 6 
+Jaguar,X-Type 3.0 4dr,Sedan,Europe,All," 42,49,375 "," 38,74,375 ", 3.00 , 6 , 227 , 18 , 25 ," 3,516 ", 107 , 184 ,1, 6 
+BMW,Z4 convertible 2.5i 2dr,Sports,Europe,Rear," 42,36,875 "," 38,83,125 ", 2.50 , 6 , 184 , 20 , 28 ," 2,932 ", 98 , 161 ,1, 6 
+Mercedes-Benz,C240 4dr,Sedan,Europe,All," 41,85,000 "," 38,98,375 ", 2.60 , 6 , 168 , 19 , 25 ," 3,360 ", 107 , 178 ,1, 6 
+GMC,Yukon 1500 SLE,SUV,USA,Front," 44,65,625 "," 39,20,125 ", 4.80 , 8 , 285 , 16 , 19 ," 5,042 ", 116 , 199 ,1, 6 
+Audi,A4 3.0 Quattro 4dr auto,Sedan,Europe,All," 43,10,000 "," 39,23,500 ", 3.00 , 6 , 220 , 18 , 25 ," 3,627 ", 104 , 179 ,1, 6 
+Mercedes-Benz,C240,Wagon,Europe,Rear," 42,22,500 "," 39,33,250 ", 2.60 , 6 , 168 , 19 , 25 ," 3,470 ", 107 , 179 ,1, 6 
+Mercury,Marauder 4dr,Sedan,USA,Rear," 43,11,875 "," 39,44,750 ", 4.60 , 8 , 302 , 17 , 23 ," 4,195 ", 115 , 212 ,1, 6 
+Saab,9-3 Aero 4dr,Sedan,Europe,Front," 41,70,000 "," 39,45,250 ", 2.00 , 4 , 210 , 20 , 28 ," 3,175 ", 105 , 183 ,1, 6 
+Chevrolet,Avalanche 1500,Truck,USA,All," 45,12,500 "," 39,61,125 ", 5.30 , 8 , 295 , 14 , 18 ," 5,678 ", 130 , 222 ,1, 6 
+Infiniti,FX35,Wagon,Asia,Rear," 43,61,875 "," 39,69,500 ", 3.50 , 6 , 280 , 16 , 22 ," 4,056 ", 112 , 189 ,1, 6 
+Toyota,Sequoia SR5,SUV,Asia,All," 44,61,875 "," 39,78,375 ", 4.70 , 8 , 240 , 14 , 17 ," 5,270 ", 118 , 204 ,1, 6 
+Nissan,350Z Enthusiast convertible 2dr,Sports,Asia,Rear," 42,98,750 "," 39,80,625 ", 3.50 , 6 , 287 , 20 , 26 ," 3,428 ", 104 , 169 ,1, 6 
+Chrysler,Crossfire 2dr,Sports,USA,Rear," 43,11,875 "," 40,04,125 ", 3.20 , 6 , 215 , 17 , 25 ," 3,060 ", 95 , 160 ,1, 6 
+Volkswagen,Touareg V6,SUV,Europe,All," 44,39,375 "," 40,30,375 ", 3.20 , 6 , 220 , 15 , 20 ," 5,086 ", 112 , 187 ,1, 6 
+Buick,Park Avenue 4dr,Sedan,USA,Front," 44,43,125 "," 40,30,500 ", 3.80 , 6 , 205 , 20 , 29 ," 3,778 ", 114 , 207 ,1, 6 
+Audi,A41.8T convertible 2dr,Sedan,Europe,Front," 44,92,500 "," 40,63,250 ", 1.80 , 4 , 170 , 23 , 30 ," 3,638 ", 105 , 180 ,1, 6 
+Audi,TT 1.8 convertible 2dr (coupe),Sports,Europe,Front," 44,92,500 "," 40,64,000 ", 1.80 , 4 , 180 , 20 , 28 ," 3,131 ", 95 , 159 ,1, 6 
+BMW,330i 4dr,Sedan,Europe,Rear," 44,36,875 "," 40,65,625 ", 3.00 , 6 , 225 , 20 , 30 ," 3,285 ", 107 , 176 ,1, 6 
+Volvo,S60 T5 4dr,Sedan,Europe,Front," 43,55,625 "," 41,12,750 ", 2.30 , 5 , 247 , 20 , 28 ," 3,766 ", 107 , 180 ,1, 6 
+Pontiac,Bonneville GXP 4dr,Sedan,USA,Front," 44,99,375 "," 41,24,625 ", 4.60 , 8 , 275 , 17 , 20 ," 3,790 ", 112 , 203 ,1, 6 
+Saab,9-5 Arc 4dr,Sedan,Europe,Front," 43,88,125 "," 41,26,375 ", 2.30 , 4 , 220 , 21 , 29 ," 3,470 ", 106 , 190 ,1, 6 
+Volvo,XC70,Wagon,Europe,All," 43,93,125 "," 41,39,000 ", 2.50 , 5 , 208 , 20 , 27 ," 3,823 ", 109 , 186 ,1, 6 
+Infiniti,FX45,Wagon,Asia,All," 45,49,375 "," 41,40,125 ", 4.50 , 8 , 315 , 15 , 19 ," 4,309 ", 112 , 189 ,1, 6 
+Audi,A6 3.0 4dr,Sedan,Europe,Front," 45,80,000 "," 41,41,125 ", 3.00 , 6 , 220 , 20 , 27 ," 3,561 ", 109 , 192 ,1, 6 
+Acura,MDX,SUV,Asia,All," 46,18,125 "," 41,67,125 ", 3.50 , 6 , 265 , 17 , 23 ," 4,451 ", 106 , 189 ,1, 6 
+Mercedes-Benz,C320 Sport 4dr,Sedan,Europe,Rear," 44,90,000 "," 41,82,000 ", 3.20 , 6 , 215 , 19 , 26 ," 3,430 ", 107 , 178 ,1, 6 
+BMW,X3 3.0i,SUV,Europe,All," 46,25,000 "," 42,34,125 ", 3.00 , 6 , 225 , 16 , 23 ," 4,023 ", 110 , 180 ,1, 6 
+BMW,330Ci 2dr,Sedan,Europe,Rear," 46,24,375 "," 42,36,250 ", 3.00 , 6 , 225 , 20 , 30 ," 3,285 ", 107 , 176 ,1, 6 
+Audi,TT 1.8 Quattro 2dr (convertible),Sports,Europe,All," 46,73,750 "," 42,36,375 ", 1.80 , 4 , 225 , 20 , 28 ," 2,921 ", 96 , 159 ,1, 6 
+Lincoln,LS V6 Premium 4dr,Sedan,USA,Rear," 46,11,875 "," 42,41,125 ", 3.00 , 6 , 232 , 20 , 26 ," 3,681 ", 115 , 194 ,1, 6 
+BMW,330xi 4dr,Sedan,Europe,All," 46,55,625 "," 42,64,375 ", 3.00 , 6 , 225 , 20 , 29 ," 3,483 ", 107 , 176 ,1, 6 
+Buick,Rainier,SUV,USA,All," 47,36,875 "," 42,94,625 ", 4.20 , 6 , 275 , 15 , 21 ," 4,600 ", 113 , 193 ,1, 6 
+Ford,Thunderbird Deluxe convert w/hardtop 2d,Sports,USA,Front," 46,91,250 "," 43,10,375 ", 3.90 , 8 , 280 , 17 , 24 ," 3,780 ", 107 , 186 ,1, 6 
+Lexus,RX 330,SUV,Asia,All," 48,99,375 "," 43,22,000 ", 3.30 , 6 , 230 , 18 , 24 ," 4,065 ", 107 , 186 ,1, 6 
+BMW,325Ci convertible 2dr,Sedan,Europe,Rear," 47,49,375 "," 43,50,000 ", 2.50 , 6 , 184 , 19 , 27 ," 3,560 ", 107 , 177 ,1, 6 
+Mercedes-Benz,C320 4dr,Sedan,Europe,Rear," 47,03,750 "," 43,80,750 ", 3.20 , 6 , 215 , 20 , 26 ," 3,450 ", 107 , 178 ,1, 6 
+Chrysler,Town and Country Limited,Sedan,USA,Front," 47,97,500 "," 43,82,875 ", 3.80 , 6 , 215 , 18 , 25 ," 4,331 ", 119 , 201 ,1, 6 
+Volvo,S60 R 4dr,Sedan,Europe,All," 46,95,000 "," 44,22,750 ", 2.50 , 5 , 300 , 18 , 25 ," 3,571 ", 107 , 181 ,1, 6 
+Chevrolet,Silverado SS,Truck,USA,All," 50,42,500 "," 44,24,875 ", 6.00 , 8 , 300 , 13 , 17 ," 4,804 ", 144 , 238 ,1, 6 
+Volvo,S80 2.9 4dr,Sedan,Europe,Front," 47,16,250 "," 44,42,750 ", 2.90 , 6 , 208 , 20 , 28 ," 3,576 ", 110 , 190 ,1, 6 
+Volvo,S80 2.5T 4dr,Sedan,Europe,All," 47,35,625 "," 44,61,000 ", 2.50 , 5 , 194 , 20 , 27 ," 3,691 ", 110 , 190 ,1, 6 
+Land Rover,Discovery SE,SUV,Europe,All," 49,06,250 "," 44,72,125 ", 4.60 , 8 , 217 , 12 , 16 ," 4,576 ", 100 , 185 ,1, 6 
+Audi,A6 3.0 Quattro 4dr,Sedan,Europe,All," 49,55,000 "," 44,99,000 ", 3.00 , 6 , 220 , 18 , 25 ," 3,880 ", 109 , 192 ,1, 6 
+Volkswagen,Passat W8 4MOTION 4dr,Sedan,Europe,Front," 49,04,375 "," 45,06,500 ", 4.00 , 8 , 270 , 18 , 25 ," 3,953 ", 106 , 185 ,1, 6 
+Mercedes-Benz,C320 4dr,Sedan,Europe,All," 48,53,750 "," 45,20,250 ", 3.20 , 6 , 215 , 19 , 27 ," 3,450 ", 107 , 178 ,1, 6 
+Lexus,GS 300 4dr,Sedan,Asia,Rear," 51,26,250 "," 45,24,500 ", 3.00 , 6 , 220 , 18 , 25 ," 3,649 ", 110 , 189 ,1, 6 
+Chevrolet,Tahoe LT,SUV,USA,All," 51,83,125 "," 45,35,875 ", 5.30 , 8 , 295 , 14 , 18 ," 5,050 ", 116 , 197 ,1, 6 
+Ford,Excursion 6.8 XLT,SUV,USA,All," 51,84,375 "," 45,61,750 ", 6.80 , 10 , 310 , 10 , 13 ," 7,190 ", 137 , 227 ,1, 6 
+BMW,525i 4dr,Sedan,Europe,Rear," 49,99,375 "," 45,77,500 ", 2.50 , 6 , 184 , 19 , 28 ," 3,428 ", 114 , 191 ,1, 6 
+Audi,TT 3.2 coupe 2dr (convertible),Sports,Europe,All," 50,73,750 "," 45,92,375 ", 3.20 , 6 , 250 , 21 , 29 ," 3,351 ", 96 , 159 ,1, 6 
+Lincoln,LS V8 Sport 4dr,Sedan,USA,Rear," 50,11,875 "," 46,01,125 ", 3.90 , 8 , 280 , 17 , 24 ," 3,768 ", 115 , 194 ,1, 6 
+Buick,Park Avenue Ultra 4dr,Sedan,USA,Front," 50,90,000 "," 46,15,875 ", 3.80 , 6 , 240 , 18 , 28 ," 3,909 ", 114 , 207 ,1, 6 
+Volkswagen,Passat W8,Wagon,Europe,Front," 50,29,375 "," 46,19,500 ", 4.00 , 8 , 270 , 18 , 25 ," 4,067 ", 106 , 184 ,1, 6 
+Audi,A6 3.0 Avant Quattro,Wagon,Europe,All," 51,05,000 "," 46,32,500 ", 3.00 , 6 , 220 , 18 , 25 ," 4,035 ", 109 , 192 ,1, 6 
+Chevrolet,Suburban 1500 LT,SUV,USA,Front," 53,41,875 "," 46,77,750 ", 5.30 , 8 , 295 , 14 , 18 ," 4,947 ", 130 , 219 ,1, 6 
+Mercedes-Benz,SLK230 convertible 2dr,Sports,Europe,Rear," 50,40,000 "," 46,93,500 ", 2.30 , 4 , 192 , 21 , 29 ," 3,055 ", 95 , 158 ,1, 6 
+BMW,Z4 convertible 3.0i 2dr,Sports,Europe,Rear," 51,30,625 "," 46,96,875 ", 3.00 , 6 , 225 , 21 , 29 ," 2,998 ", 98 , 161 ,1, 6 
+Saab,9-5 Aero 4dr,Sedan,Europe,Front," 49,33,125 "," 47,15,125 ", 2.30 , 4 , 250 , 21 , 29 ," 3,470 ", 106 , 190 ,1, 6 
+Porsche,Boxster convertible 2dr,Sports,Europe,Rear," 54,20,625 "," 47,35,750 ", 2.70 , 6 , 228 , 20 , 29 ," 2,811 ", 95 , 170 ,1, 6 
+Volvo,C70 LPT convertible 2dr,Sedan,Europe,Front," 50,70,625 "," 47,75,375 ", 2.40 , 5 , 197 , 21 , 28 ," 3,450 ", 105 , 186 ,1, 6 
+Audi,A4 3.0 convertible 2dr,Sedan,Europe,Front," 53,11,250 "," 47,90,625 ", 3.00 , 6 , 220 , 20 , 27 ," 3,814 ", 105 , 180 ,1, 6 
+Saab,9-5 Aero,Wagon,Europe,Front," 51,05,625 "," 47,97,000 ", 2.30 , 4 , 250 , 19 , 29 ," 3,620 ", 106 , 190 ,1, 6 
+Lincoln,Town Car Signature 4dr,Sedan,USA,Rear," 52,26,875 "," 48,02,250 ", 4.60 , 8 , 239 , 17 , 25 ," 4,369 ", 118 , 215 ,1, 6 
+Saab,9-3 Arc convertible 2dr,Sedan,Europe,Front," 50,83,750 "," 48,15,000 ", 2.00 , 4 , 210 , 21 , 29 ," 3,480 ", 105 , 182 ,1, 6 
+Infiniti,M45 4dr,Sedan,Asia,Rear," 53,55,625 "," 48,49,000 ", 4.50 , 8 , 340 , 17 , 23 ," 3,851 ", 110 , 197 ,1, 6 
+Audi,A6 2.7 Turbo Quattro 4dr,Sedan,Europe,All," 53,55,000 "," 48,55,000 ", 2.70 , 6 , 250 , 18 , 25 ," 3,836 ", 109 , 192 ,1, 6 
+Volvo,XC90 T6,SUV,Europe,All," 51,56,250 "," 48,56,375 ", 2.90 , 6 , 268 , 15 , 20 ," 4,638 ", 113 , 189 ,1, 6 
+Acura,3.5 RL 4dr,Sedan,Asia,Front," 54,69,375 "," 48,76,750 ", 3.50 , 6 , 225 , 18 , 24 ," 3,880 ", 115 , 197 ,1, 6 
+Chevrolet,Corvette 2dr,Sports,USA,Rear," 55,66,875 "," 48,83,500 ", 5.70 , 8 , 350 , 18 , 25 ," 3,246 ", 105 , 180 ,1, 6 
+Chevrolet,SSR,Truck,USA,Rear," 52,49,375 "," 49,13,250 ", 5.30 , 8 , 300 , 16 , 19 ," 4,760 ", 116 , 191 ,1, 6 
+Lincoln,Aviator Ultimate,SUV,USA,Front," 53,64,375 "," 49,30,375 ", 4.60 , 8 , 302 , 13 , 18 ," 4,834 ", 114 , 193 ,1, 6 
+Lexus,GX 470,SUV,Asia,All," 57,12,500 "," 49,79,750 ", 4.70 , 8 , 235 , 15 , 19 ," 4,740 ", 110 , 188 ,1, 6 
+Lincoln,LS V8 Ultimate 4dr,Sedan,USA,Rear," 54,36,875 "," 49,83,625 ", 3.90 , 8 , 280 , 17 , 24 ," 3,768 ", 115 , 194 ,1, 6 
+Jaguar,S-Type 3.0 4dr,Sedan,Europe,Rear," 54,86,875 "," 50,00,500 ", 3.00 , 6 , 235 , 18 , 26 ," 3,777 ", 115 , 192 ,1, 6 
+Audi,A4 3.0 Quattro convertible 2dr,Sedan,Europe,All," 55,30,000 "," 50,09,375 ", 3.00 , 6 , 220 , 18 , 25 ," 4,013 ", 105 , 180 ,1, 6 
+Volvo,C70 HPT convertible 2dr,Sedan,Europe,Front," 53,20,625 "," 50,10,375 ", 2.30 , 5 , 242 , 20 , 26 ," 3,450 ", 105 , 186 ,1, 6 
+BMW,330Ci convertible 2dr,Sedan,Europe,Rear," 55,36,875 "," 50,66,250 ", 3.00 , 6 , 225 , 19 , 28 ," 3,616 ", 107 , 177 ,1, 6 
+GMC,Yukon XL 2500 SLT,SUV,USA,All," 57,83,125 "," 50,66,750 ", 6.00 , 8 , 325 , 13 , 17 ," 6,133 ", 130 , 219 ,1, 6 
+Saab,9-3 Aero convertible 2dr,Sedan,Europe,Front," 53,96,875 "," 51,10,375 ", 2.00 , 4 , 210 , 21 , 30 ," 3,700 ", 105 , 182 ,1, 6 
+Acura,3.5 RL w/Navigation 4dr,Sedan,Asia,Front," 57,62,500 "," 51,37,500 ", 3.50 , 6 , 225 , 18 , 24 ," 3,893 ", 115 , 197 ,1, 6 
+BMW,530i 4dr,Sedan,Europe,Rear," 56,24,375 "," 51,46,250 ", 3.00 , 6 , 225 , 20 , 30 ," 3,472 ", 114 , 191 ,1, 6 
+Lincoln,Town Car Ultimate 4dr,Sedan,USA,Rear," 56,15,625 "," 51,52,125 ", 4.60 , 8 , 239 , 17 , 25 ," 4,369 ", 118 , 215 ,1, 6 
+Cadillac,Deville 4dr,Sedan,USA,Front," 56,80,625 "," 52,06,250 ", 4.60 , 8 , 275 , 18 , 26 ," 3,984 ", 115 , 207 ,1, 6 
+Mercedes-Benz,CLK320 coupe 2dr (convertible),Sedan,Europe,Rear," 57,13,375 "," 52,45,750 ", 3.20 , 6 , 215 , 20 , 26 ," 3,770 ", 107 , 183 ,1, 6 
+Lexus,GS 430 4dr,Sedan,Asia,Rear," 60,56,250 "," 52,79,000 ", 4.30 , 8 , 300 , 18 , 23 ," 3,715 ", 110 , 189 ,1, 6 
+Volvo,S80 T6 4dr,Sedan,Europe,Front," 56,51,250 "," 53,21,625 ", 2.90 , 6 , 268 , 19 , 26 ," 3,653 ", 110 , 190 ,1, 6 
+Mercedes-Benz,ML500,SUV,Europe,All," 58,08,750 "," 54,08,500 ", 5.00 , 8 , 288 , 14 , 17 ," 4,874 ", 111 , 183 ,1, 6 
+Cadillac,SRX V8,SUV,USA,Front," 58,74,375 "," 54,40,375 ", 4.60 , 8 , 320 , 16 , 21 ," 4,302 ", 116 , 195 ,1, 6 
+Audi,S4 Quattro 4dr,Sedan,Europe,All," 60,05,000 "," 54,44,500 ", 4.20 , 8 , 340 , 14 , 20 ," 3,825 ", 104 , 179 ,1, 6 
+Cadillac,Seville SLS 4dr,Sedan,USA,Front," 59,94,375 "," 54,80,125 ", 4.60 , 8 , 275 , 18 , 26 ," 3,992 ", 112 , 201 ,1, 6 
+BMW,M3 coupe 2dr,Sports,Europe,Rear," 60,24,375 "," 55,21,250 ", 3.20 , 6 , 333 , 16 , 24 ," 3,415 ", 108 , 177 ,1, 6 
+Audi,S4 Avant Quattro,Wagon,Europe,All," 61,36,250 "," 55,55,750 ", 4.20 , 8 , 340 , 15 , 21 ," 3,936 ", 104 , 179 ,1, 6 
+Mercedes-Benz,E320 4dr,Sedan,Europe,Rear," 60,21,250 "," 56,06,125 ", 3.20 , 6 , 221 , 19 , 27 ," 3,635 ", 112 , 190 ,1, 6 
+Audi,A6 4.2 Quattro 4dr,Sedan,Europe,All," 62,11,250 "," 56,17,000 ", 4.20 , 8 , 300 , 17 , 24 ," 4,024 ", 109 , 193 ,1, 6 
+Chevrolet,Corvette convertible 2dr,Sports,USA,Rear," 64,41,875 "," 56,49,125 ", 5.70 , 8 , 350 , 18 , 25 ," 3,248 ", 105 , 180 ,1, 6 
+Jaguar,S-Type 4.2 4dr,Sedan,Europe,Rear," 62,49,375 "," 56,94,500 ", 4.20 , 8 , 294 , 18 , 28 ," 3,874 ", 115 , 192 ,1, 6 
+Porsche,Boxster S convertible 2dr,Sports,Europe,Rear," 65,45,625 "," 57,20,750 ", 3.20 , 6 , 258 , 18 , 26 ," 2,911 ", 95 , 170 ,1, 6 
+Hummer,H2,SUV,USA,All," 62,49,375 "," 57,26,875 ", 6.00 , 8 , 316 , 10 , 12 ," 6,400 ", 123 , 190 ,1, 6 
+Lincoln,Town Car Ultimate L 4dr,Sedan,USA,Rear," 63,08,750 "," 57,76,000 ", 4.60 , 8 , 239 , 17 , 25 ," 4,474 ", 124 , 221 ,1, 6 
+Lincoln,Navigator Luxury,SUV,USA,All," 65,96,875 "," 57,95,000 ", 5.40 , 8 , 300 , 13 , 18 ," 5,969 ", 119 , 206 ,1, 6 
+Cadillac,Deville DTS 4dr,Sedan,USA,Front," 63,24,375 "," 57,95,250 ", 4.60 , 8 , 300 , 18 , 26 ," 4,044 ", 115 , 207 ,1, 6 
+Mercedes-Benz,E320,Wagon,Europe,Rear," 63,33,750 "," 58,96,750 ", 3.20 , 6 , 221 , 19 , 27 ," 3,966 ", 112 , 190 ,1, 6 
+Infiniti,Q45 Luxury 4dr,Sedan,Asia,Rear," 65,68,125 "," 59,46,875 ", 4.50 , 8 , 340 , 17 , 23 ," 3,977 ", 113 , 200 ,1, 6 
+BMW,X5 4.4i,SUV,Europe,All," 65,24,375 "," 59,65,000 ", 4.40 , 8 , 325 , 16 , 22 ," 4,824 ", 111 , 184 ,1, 6 
+Toyota,Land Cruiser,SUV,Asia,All," 68,45,625 "," 59,98,250 ", 4.70 , 8 , 325 , 13 , 17 ," 5,390 ", 112 , 193 ,1, 6 
+Cadillac,Escalade,SUV,USA,Front," 65,99,375 "," 60,47,125 ", 5.30 , 8 , 295 , 14 , 18 ," 5,367 ", 116 , 199 ,1, 6 
+Mercedes-Benz,C32 AMG 4dr,Sedan,Europe,Rear," 65,15,000 "," 60,65,250 ", 3.20 , 6 , 349 , 16 , 21 ," 3,540 ", 107 , 178 ,1, 6 
+Cadillac,Escalade EXT,Truck,USA,All," 66,21,875 "," 60,67,625 ", 6.00 , 8 , 345 , 13 , 17 ," 5,879 ", 130 , 221 ,1, 6 
+Lexus,LS 430 4dr,Sedan,Asia,Rear," 69,68,750 "," 60,72,875 ", 4.30 , 8 , 290 , 18 , 25 ," 3,990 ", 115 , 197 ,1, 6 
+Mercedes-Benz,CLK500 coupe 2dr (convertible),Sedan,Europe,Rear," 66,00,000 "," 61,38,000 ", 5.00 , 8 , 302 , 17 , 22 ," 3,585 ", 107 , 183 ,1, 6 
+Porsche,Cayenne S,SUV,Europe,All," 70,83,125 "," 62,33,125 ", 4.50 , 8 , 340 , 14 , 18 ," 4,950 ", 112 , 188 ,1, 6 
+BMW,545iA 4dr,Sedan,Europe,Rear," 68,74,375 "," 62,83,750 ", 4.40 , 8 , 325 , 18 , 26 ," 3,814 ", 114 , 191 ,1, 6 
+BMW,M3 convertible 2dr,Sports,Europe,Rear," 70,74,375 "," 64,76,875 ", 3.20 , 6 , 333 , 16 , 23 ," 3,781 ", 108 , 177 ,1, 6 
+Mercedes-Benz,SLK32 AMG 2dr,Sports,Europe,Rear," 70,21,250 "," 65,36,125 ", 3.20 , 6 , 349 , 17 , 22 ," 3,220 ", 95 , 158 ,1, 6 
+Mercedes-Benz,E500 4dr,Sedan,Europe,Rear," 71,58,750 "," 66,72,750 ", 5.00 , 8 , 302 , 16 , 20 ," 3,815 ", 112 , 190 ,1, 6 
+Jaguar,XJ8 4dr,Sedan,Europe,Rear," 74,99,375 "," 68,32,000 ", 4.20 , 8 , 294 , 18 , 28 ," 3,803 ", 119 , 200 ,1, 6 
+Lexus,SC 430 convertible 2dr,Sports,Asia,Rear," 79,00,000 "," 68,82,875 ", 4.30 , 8 , 300 , 18 , 23 ," 3,840 ", 103 , 178 ,1, 6 
+Lexus,LX 470,SUV,Asia,All," 81,00,000 "," 70,56,875 ", 4.70 , 8 , 235 , 13 , 17 ," 5,590 ", 112 , 193 ,1, 6 
+Mercedes-Benz,E500,Wagon,Europe,All," 75,83,750 "," 70,59,250 ", 5.00 , 8 , 302 , 16 , 24 ," 4,230 ", 112 , 190 ,1, 6 
+Jaguar,S-Type R 4dr,Sedan,Europe,Rear," 78,90,000 "," 71,87,375 ", 4.20 , 8 , 390 , 17 , 24 ," 4,046 ", 115 , 192 ,1, 6 
+Volkswagen,Phaeton 4dr,Sedan,Europe,Front," 81,25,000 "," 74,89,000 ", 4.20 , 8 , 335 , 16 , 22 ," 5,194 ", 118 , 204 ,1, 6 
+Jaguar,Vanden Plas 4dr,Sedan,Europe,Rear," 86,24,375 "," 78,55,750 ", 4.20 , 8 , 294 , 18 , 28 ," 3,803 ", 119 , 200 ,1, 6 
+BMW,745i 4dr,Sedan,Europe,Rear," 86,49,375 "," 78,98,750 ", 4.40 , 8 , 325 , 18 , 26 ," 4,376 ", 118 , 198 ,1, 6 
+Jaguar,XK8 coupe 2dr,Sports,Europe,Rear," 87,49,375 "," 79,69,500 ", 4.20 , 8 , 294 , 18 , 26 ," 3,779 ", 102 , 187 ,1, 6 
+Audi,A8 L Quattro 4dr,Sedan,Europe,All," 86,48,750 "," 80,92,500 ", 4.20 , 8 , 330 , 17 , 24 ," 4,399 ", 121 , 204 ,1, 6 
+Land Rover,Range Rover HSE,SUV,Europe,All," 90,31,250 "," 82,25,875 ", 4.40 , 8 , 282 , 12 , 16 ," 5,379 ", 113 , 195 ,1, 6 
+BMW,745Li 4dr,Sedan,Europe,Rear," 91,49,375 "," 83,53,750 ", 4.40 , 8 , 325 , 18 , 26 ," 4,464 ", 123 , 204 ,1, 6 
+Porsche,911 Targa coupe 2dr,Sports,Europe,Rear," 95,95,625 "," 83,91,000 ", 3.60 , 6 , 315 , 18 , 26 ," 3,119 ", 93 , 175 ,1, 6 
+Jaguar,XJR 4dr,Sedan,Europe,Rear," 93,74,375 "," 85,38,250 ", 4.20 , 8 , 390 , 17 , 24 ," 3,948 ", 119 , 200 ,1, 6 
+Jaguar,XK8 convertible 2dr,Sports,Europe,Rear," 93,74,375 "," 85,38,250 ", 4.20 , 8 , 294 , 18 , 26 ," 3,980 ", 102 , 187 ,1, 6 
+Volkswagen,Phaeton W12 4dr,Sedan,Europe,Front," 93,75,000 "," 86,41,250 ", 6.00 , 12 , 420 , 12 , 19 ," 5,399 ", 118 , 204 ,1, 6 
+Mercedes-Benz,S430 4dr,Sedan,Europe,Rear," 92,90,000 "," 86,46,000 ", 4.30 , 8 , 275 , 18 , 26 ," 4,160 ", 122 , 203 ,1, 6 
+Porsche,911 Carrera convertible 2dr (coupe),Sports,Europe,Rear," 98,95,625 "," 86,53,625 ", 3.60 , 6 , 315 , 18 , 26 ," 3,135 ", 93 , 175 ,1, 6 
+Cadillac,XLR convertible 2dr,Sports,USA,Rear," 95,25,000 "," 88,18,250 ", 4.60 , 8 , 320 , 17 , 25 ," 3,647 ", 106 , 178 ,1, 6 
+Mercedes-Benz,G500,SUV,Europe,All," 96,08,750 "," 89,42,500 ", 5.00 , 8 , 292 , 13 , 14 ," 5,423 ", 112 , 186 ,1, 6 
+Porsche,911 Carrera 4S coupe 2dr (convert),Sports,Europe,All," 1,05,20,625 "," 90,25,750 ", 3.60 , 6 , 315 , 17 , 24 ," 3,240 ", 93 , 175 ,1, 6 
+Dodge,Viper SRT-10 convertible 2dr,Sports,USA,Rear," 1,02,24,375 "," 93,06,375 ", 8.30 , 10 , 500 , 12 , 20 ," 3,410 ", 99 , 176 ,1, 6 
+Jaguar,XKR coupe 2dr,Sports,Europe,Rear," 1,02,49,375 "," 93,34,500 ", 4.20 , 8 , 390 , 16 , 23 ," 3,865 ", 102 , 187 ,1, 6 
+Audi,RS 6 4dr,Sports,Europe,Front," 1,05,75,000 "," 95,52,125 ", 4.20 , 8 , 450 , 15 , 22 ," 4,024 ", 109 , 191 ,1, 6 
+Jaguar,XKR convertible 2dr,Sports,Europe,Rear," 1,08,74,375 "," 99,03,250 ", 4.20 , 8 , 390 , 16 , 23 ," 4,042 ", 102 , 187 ,1, 6 
+Acura,NSX coupe 2dr manual S,Sports,Asia,Rear," 1,12,20,625 "," 99,97,250 ", 3.20 , 6 , 290 , 17 , 24 ," 3,153 ", 100 , 174 ,1, 6 
+Mercedes-Benz,S500 4dr,Sedan,Europe,All," 1,08,71,250 "," 1,01,17,375 ", 5.00 , 8 , 302 , 16 , 24 ," 4,390 ", 122 , 203 ,1, 6 
+Mercedes-Benz,SL500 convertible 2dr,Sports,Europe,Rear," 1,13,15,000 "," 1,05,40,625 ", 5.00 , 8 , 302 , 16 , 23 ," 4,065 ", 101 , 179 ,1, 6 
+Mercedes-Benz,CL500 2dr,Sedan,Europe,Rear," 1,18,52,500 "," 1,10,40,500 ", 5.00 , 8 , 302 , 16 , 24 ," 4,085 ", 114 , 196 ,1, 6 
+Mercedes-Benz,SL55 AMG 2dr,Sports,Europe,Rear," 1,52,21,250 "," 1,41,73,500 ", 5.50 , 8 , 493 , 14 , 21 ," 4,235 ", 101 , 179 ,1, 6 
+Mercedes-Benz,SL600 convertible 2dr,Sports,Europe,Rear," 1,58,33,750 "," 1,47,31,750 ", 5.50 , 12 , 493 , 13 , 19 ," 4,429 ", 101 , 179 ,1, 6 
+Mercedes-Benz,CL600 2dr,Sedan,Europe,Rear," 1,60,52,500 "," 1,49,50,000 ", 5.50 , 12 , 493 , 13 , 19 ," 4,473 ", 114 , 196 ,1, 6 
+Porsche,911 GT2 2dr,Sports,Europe,Rear," 2,40,58,125 "," 2,16,95,000 ", 3.60 , 6 , 477 , 17 , 24 ," 3,131 ", 93 , 175 ,1, 6 
