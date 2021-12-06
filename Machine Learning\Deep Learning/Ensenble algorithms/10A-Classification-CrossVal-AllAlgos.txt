@@ -1,0 +1,45 @@
+Support Vector Machine
+# https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+from sklearn.svm import SVC
+
+Random Forest
+# https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+from sklearn.ensemble import RandomForestClassifier
+
+K Nearest Neighbour
+# https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+from sklearn.neighbors import KNeighborsClassifier
+
+Logistic Regression
+# https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+from sklearn.linear_model import LogisticRegression
+
+Decision Tree
+# https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+from sklearn.tree import DecisionTreeClassifier
+
+Naive Bayes
+# https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+from sklearn.naive_bayes import GaussianNB
+
+Random Forest
+# https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+from sklearn.ensemble import RandomForestClassifier
+RandomForestClassifier(random_state=707)
+
+Gradient Boosting Classifier
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
+from sklearn.ensemble import GradientBoostingClassifier
+GradientBoostingClassifier(n_estimators=100, learning_rate=1.0, max_depth=1, random_state=707)
+
+Ada Boost Classifier
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html#sklearn.ensemble.AdaBoostClassifier
+from sklearn.ensemble import AdaBoostClassifier
+AdaBoostClassifier(n_estimators=100, random_state=707)
+
+XGBoost Classifier
+# https://xgboost.readthedocs.io/en/latest/
+import xgboost as xgb
+# booster = gblinear (regression), gbteee (classification) 
+# objective = reg:squarederror (regression), binary:logistic (binary), multi:softprob (multiclass)
+xgb.XGBClassifier(booster='gbtree', objective='multi:softprob', verbosity=0, seed=707)

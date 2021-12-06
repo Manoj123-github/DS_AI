@@ -1,0 +1,52 @@
+# normal linear regression
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+from sklearn.linear_model import LinearRegression 
+LinearRegression()
+
+# ridge regression from sklearn library
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html 
+from sklearn.linear_model import Ridge 
+Ridge(alpha = 10)
+
+# import Lasso regression from sklearn library 
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
+from sklearn.linear_model import Lasso 
+Lasso(alpha = 1)
+
+# import ElasticNet model 
+http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html
+from sklearn.linear_model import ElasticNet 
+ElasticNet(alpha = 1)
+
+# decision tree regressor
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+from sklearn.tree import DecisionTreeRegressor
+DecisionTreeRegressor(random_state=707)
+
+# ada boost regressor
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html
+from sklearn.ensemble import AdaBoostRegressor
+AdaBoostRegressor(random_state=707, n_estimators=100)
+
+# gradient boosting
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+from sklearn.ensemble import GradientBoostingRegressor
+GradientBoostingRegressor(random_state=707)
+
+# svm regressor
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
+from sklearn.svm import SVR
+SVR(C=1.0, epsilon=0.2)
+
+# xgboost regressor
+# https://xgboost.readthedocs.io/en/latest/parameter.html
+import xgboost as xgb
+# booster = gblinear (regression), gbteee (classification) 
+# objective = reg:squarederror (regression), binary:logistic (binary), multi:softprob (multiclass)
+model = xgb.XGBRegressor(booster='gblinear', objective ='reg:linear', seed=707)
+
+# random forest regressor
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+from sklearn.ensemble import RandomForestRegressor 
+model = RandomForestRegressor(random_state = 707) 
+
